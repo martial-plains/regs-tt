@@ -1,0 +1,852 @@
+[
+    {
+        "stem": "At an intersection where there is a flashing amber traffic light you must:",
+        "answer": "Slow down and proceed with caution?",
+        "options": [
+            "Stop if making a left turn?",
+            "Continue at the same speed?",
+            "Slow down and proceed with caution?",
+            "Stop if making a right turn?"
+        ]
+    },
+    {
+        "stem": "Identification plates which must be placed in an upright position in front and rear of a motor vehicle must be painted in:",
+        "answer": "Black background with white letters and figures or white luminous background with black letters and figures?",
+        "options": [
+            "Yellow background with black letters and numbers?",
+            "Black background with white letters and figures or white luminous background with black letters and figures?",
+            "Black background with yellow letters and figures?",
+            "Does not matter what colour once it is large enough?"
+        ]
+    },
+    {
+        "stem": "You should under all conditions drive at a speed that will allow you to:",
+        "answer": "Stop within a safe distance?",
+        "options": [
+            "Stop within 150 metres (500 feet)?",
+            "Stop within 90 metres (300 feet)?",
+            "Stop within 60 metres (200 feet)?",
+            "Stop within a safe distance?"
+        ]
+    },
+    {
+        "stem": "At night when you meet another vehicle with blinding bright lights, the safest thing to do is:",
+        "answer": "Look slightly to the left hand side of the roadway?",
+        "options": [
+            "Open and shut your eyes rapidly?",
+            "Look slightly to the left hand side of the roadway?",
+            "Turn your lights on high beam?",
+            "Look at the head lights of the approaching vehicles?"
+        ]
+    },
+    {
+        "stem": "When descending a steep hill, a good safe driving practice is to:",
+        "answer": "Gear down and use motor to assist in braking?",
+        "options": [
+            "Disengage the clutch and coast?",
+            "Gear down and use motor to assist in braking?",
+            "Place the gear shift in neutral?",
+            "Turn off the ignition?"
+        ]
+    },
+    {
+        "stem": "When driving a Motor Vehicle on the highway at night, you should use low beam headlights (dim lights) when:",
+        "answer": "Meeting or following another vehicle?",
+        "options": [
+            "Another driver dims his lights?",
+            "Blinded by the headlights of an approaching vehicle?",
+            "Approaching an intersection?",
+            "Meeting or following another vehicle?"
+        ]
+    },
+    {
+        "stem": "When a red signal light with a green arrow is shown at an intersection it means:",
+        "answer": "Proceed with caution in the direction of the arrow, giving way to traffic on the full green light?",
+        "options": [
+            "Proceed with caution in the direction of the arrow, giving way to traffic on the full green light?",
+            "Stop and wait for green light before making a turn?",
+            "Stop and then proceed?",
+            "The green arrow is a signal for pedestrians only?"
+        ]
+    },
+    {
+        "stem": "At what age a provisional driving permit for P. Car will be granted?",
+        "answer": "17 years.",
+        "options": [
+            "21 years.",
+            "Any age.",
+            "16 years.",
+            "17 years."
+        ]
+    },
+    {
+        "stem": "In Port-of-Spain and San Fernando it is unlawful to reverse:",
+        "answer": "Round a corner or junction?",
+        "options": [
+            "Straight, for a reasonable distance?",
+            "On Frederick Street, Port-of-Spain?",
+            "Round a corner or junction?",
+            "On High Street, San Fernando?"
+        ]
+    },
+    {
+        "stem": "Before moving your car from a parked position, you should:",
+        "answer": "Check other traffic, signal and pull from curb when it is safe to do so?",
+        "options": [
+            "Signal and pull from curb?",
+            "Check other traffic, signal and pull from curb when it is safe to do so?",
+            "Sound your horn and pull from curb slowly?",
+            "Check other traffic, signal and pull from curb quickly?"
+        ]
+    },
+    {
+        "stem": "If a Traffic signal changes while a pedestrian is still in the intersection, which of the following has the right of way?",
+        "answer": "The pedestrian.",
+        "options": [
+            "The pedestrian.",
+            "Motorists coming from the right.",
+            "Motorists coming from the left.",
+            "Motorists making turns."
+        ]
+    },
+    {
+        "stem": "It is more dangerous to drive at the maximum speed limit at night than during the day-time because:",
+        "answer": "You cannot see as far ahead at night?",
+        "options": [
+            "Your reaction time is slower at night?",
+            "You cannot see as far ahead at night?",
+            "Some drivers unlawfully drive with parking light only?",
+            "The roadways are more apt to be slippery at night?"
+        ]
+    },
+    {
+        "stem": "When approaching a red traffic signal light and a police in uniform motions you to go through, you must:",
+        "answer": "Go through at once?",
+        "options": [
+            "Stop to make sure the police wants you to go through?",
+            "Call the policeman's attention to the red light?",
+            "Wait for the red light to turn green?",
+            "Go through at once?"
+        ]
+    },
+    {
+        "stem": "When on streets designed for two-way traffic, you hear the siren of an emergency vehicle, what does the law require you to do?",
+        "answer": "Pull to the left and stop.",
+        "options": [
+            "Pull to the left and stop.",
+            "Slow down to 15 kilometres (10 miles) an hour.",
+            "Stop and then proceed.",
+            "Continue at the same speed."
+        ]
+    },
+    {
+        "stem": "When approaching an intersection where a stop sign faces you, what does the law require you to do?",
+        "answer": "Stop and proceed when it is safe to do so.",
+        "options": [
+            "Slow down and proceed when it is safe to do so.",
+            "Stop and proceed when it is safe to do so.",
+            "Stop and then proceed.",
+            "Yield right of way if necessary to vehicles approaching from the left or right."
+        ]
+    },
+    {
+        "stem": "Parking lights may be used:",
+        "answer": "For parking only?",
+        "options": [
+            "When driving on well-lighted streets?",
+            "When driving in heavy rain?",
+            "At any time?",
+            "For parking only?"
+        ]
+    },
+    {
+        "stem": "What brakes are required by law to be fitted on a motor vehicle?",
+        "answer": "Two independent braking systems each capable of stopping the vehicle within a reasonable distance.",
+        "options": [
+            "Hand-brakes only.",
+            "Power brakes.",
+            "Two independent braking systems each capable of stopping the vehicle within a reasonable distance.",
+            "Foot brakes only."
+        ]
+    },
+    {
+        "stem": "You are permitted to drive a motor vehicle, other than a motorcycle, under the authority of a provisional permit, provided:",
+        "answer": "You have a licensed driver on the seat beside you?",
+        "options": [
+            "The vehicle you are driving is covered by collision insurance?",
+            "You have a licensed driver on the seat beside you?",
+            "You practice driving in daylight hours only?",
+            "Your vehicle is equipped with a dual braking system?"
+        ]
+    },
+    {
+        "stem": "Which of the following has the right of way over all other at an intersection when the signal light is green?",
+        "answer": "Pedestrians crossing with the light.",
+        "options": [
+            "Pedestrians crossing with the light.",
+            "Pedestrians crossing against the light.",
+            "Vehicles turning left.",
+            "Vehicles turning right."
+        ]
+    },
+    {
+        "stem": "When driving on a dual carriageway, what does the law require you to do?",
+        "answer": "Drive on the left side of the carriageway except when overtaking",
+        "options": [
+            "Drive on the left side of the carriageway except when overtaking",
+            "Drive on the right side of the carriage-way next to the traffic island.",
+            "Drive in the middle of the carriageway.",
+            "Drive either right or left of the carriageway."
+        ]
+    },
+    {
+        "stem": "When the driver of another vehicle is about to overtake and pass your vehicle, you must:",
+        "answer": "Move to the left and allow such vehicle to pass and shall not speed abreast the overtaking vehicle?",
+        "options": [
+            "Speed up so that passing is not necessary?",
+            "Move to the right to prevent passing?",
+            "Signal the other driver not to pass?",
+            "Move to the left and allow such vehicle to pass and shall not speed abreast the overtaking vehicle?"
+        ]
+    },
+    {
+        "stem": "Never change lanes in traffic without:",
+        "answer": "Giving proper signal and looking to make sure that the move can be made safely?",
+        "options": [
+            "Looking in the rear-view mirror only?",
+            "Giving proper signal and looking to make sure that the move can be made safely?",
+            "Blowing your horn and looking to the rear?",
+            "Decreasing speed and giving correct signal?"
+        ]
+    },
+    {
+        "stem": "When your motor vehicle is broken down on the roadway what does the law require you to do?",
+        "answer": "Immediately remove it as near to the left of the roadway as possible and indicate its presence by lighting or otherwise.",
+        "options": [
+            "Try repairing it.",
+            "Leave it on the roadway and look for a mechanic.",
+            "Go home and think about it later.",
+            "Immediately remove it as near to the left of the roadway as possible and indicate its presence by lighting or otherwise."
+        ]
+    },
+    {
+        "stem": "Unless otherwise posted, the maximum speed limit allowed in the City, Boroughs, Villages or built-up areas is:",
+        "answer": "50 kilometres (30 miles) an hour?",
+        "options": [
+            "30 kilometres (20 miles) an hour?",
+            "60 kilometres (35 miles) an hour?",
+            "40 kilometres (25 miles) an hour?",
+            "50 kilometres (30 miles) an hour?"
+        ]
+    },
+    {
+        "stem": "Except when you intend to over-take and pass another vehicle or when you intend to make a right turn, you should:",
+        "answer": "Always keep well to the left?",
+        "options": [
+            "Drive in the centre of the roadway?",
+            "Always keep well to the right?",
+            "Always keep well to the left?",
+            "Drive on the shoulder of the highway?"
+        ]
+    },
+    {
+        "stem": "When driving a motor vehicle, the law requires at all times full control and view, therefore a child should be carried:",
+        "answer": "On the seat left of the driver or on the rear seat?",
+        "options": [
+            "On the seat left of the driver or on the rear seat?",
+            "On the seat right of the driver?",
+            "On your lap?",
+            "In your arm?"
+        ]
+    },
+    {
+        "stem": "Every accident must be reported to the police when someone is injured or damage is done to property:",
+        "answer": "Immediately to a police in uniform or the nearest police station?",
+        "options": [
+            "Within a week?",
+            "In five days?",
+            "Immediately to a police in uniform or the nearest police station?",
+            "Does not matter if it is trivial?"
+        ]
+    },
+    {
+        "stem": "How far from a corner or road junction would you park your motor vehicle?",
+        "answer": "9 metres. Not less than (30ft).",
+        "options": [
+            "9 metres. Not less than (30ft).",
+            "3 metres. (10ft).",
+            "Any distance.",
+            "6 metres. (20ft)."
+        ]
+    },
+    {
+        "stem": "What must a driver do before entering a highway from a private road or driveway?",
+        "answer": "Give right of way to all vehicles approaching on the highway.",
+        "options": [
+            "Give hand signal then take right of way.",
+            "Enter or cross the highway as quickly as possible.",
+            "Sound horn and proceed with caution.",
+            "Give right of way to all vehicles approaching on the highway."
+        ]
+    },
+    {
+        "stem": "Every driver of a motor vehicle on the roadway is required by law to keep his driving permit and insurance for the vehicle:",
+        "answer": "Either on his person or in the vehicle?",
+        "options": [
+            "At home?",
+            "At office and must be able to produce same at the request of the police within 48 hour?",
+            "Anywhere that is convenient?",
+            "Either on his person or in the vehicle?"
+        ]
+    },
+    {
+        "stem": "Before leaving your car parked on a down-grade, you should:",
+        "answer": "Turn your front wheels to the left and set your parking brake?",
+        "options": [
+            "Turn your front wheels to the right and set your parking brakes?",
+            "Set your parking brakes only?",
+            "Leave your front wheels parallel to the curb?",
+            "Turn your front wheels to the left and set your parking brake?"
+        ]
+    },
+    {
+        "stem": "A broken centre line on a roadway means you may:",
+        "answer": "Pass if the way is clear?",
+        "options": [
+            "Pass if the way is clear?",
+            "Never pass?",
+            "Pass only during daylight hours?",
+            "Pass at any time?"
+        ]
+    },
+    {
+        "stem": "Double white lines in the centre of a roadway mean:",
+        "answer": "It is unsafe to overtake and pass?",
+        "options": [
+            "It is unsafe to overtake and pass?",
+            "Pass only when no traffic is in sight?",
+            "It is safe to overtake and pass?",
+            "Pass at any time?"
+        ]
+    },
+    {
+        "stem": "A flashing red light at an intersection means:",
+        "answer": "Stop, proceed only when it is safe to do so?",
+        "options": [
+            "Stop, proceed only when it is safe to do so?",
+            "Slow down and yield right of way to a car approaching from your left or right?",
+            "Stop, proceed only when the light changes to green?",
+            "Slow down and drive with increased caution?"
+        ]
+    },
+    {
+        "stem": "In Port-of-Spain, San Fernando and Arima it is unlawful to sound your horn:",
+        "answer": "Between the hours of 9 p.m. to 5.30 a.m.?",
+        "options": [
+            "At nights?",
+            "Between the hours of 9 p.m. to 5.30 a.m.?",
+            "During the day?",
+            "Between 7.30 a.m. to 9 a.m. and 4 p.m. to 5.30 p.m.?"
+        ]
+    },
+    {
+        "stem": "Most automobile skids are a result of:",
+        "answer": "Driving too fast?",
+        "options": [
+            "Over-inflated tyres?",
+            "Driving too fast?",
+            "Under-inflated tyres?",
+            "Wet road?"
+        ]
+    },
+    {
+        "stem": "When filling petrol in the tank of a motor vehicle, what does the law require you to do?",
+        "answer": "Switch off the engine.",
+        "options": [
+            "Switch off the engine.",
+            "Smoke.",
+            "Keep the engine running.",
+            "Use a naked light to see that the gas gets into the tank."
+        ]
+    },
+    {
+        "stem": "If the signal light changes from green to amber as you approach an intersection what must you do?",
+        "answer": "Stop. If a stop cannot be made safely proceed with caution.",
+        "options": [
+            "Stop. If a stop cannot be made safely proceed with caution.",
+            "Sound horn to warn pedestrians and other drivers.",
+            "Continue through the intersection without slowing or stopping.",
+            "Speed up to clear the intersection as quickly as possible."
+        ]
+    },
+    {
+        "stem": "When towing a motor vehicle on the roadway the chain, drawbar or rope must not exceed:",
+        "answer": "4.5 metres? (15 feet)?",
+        "options": [
+            "3 metres? (10 feet)?",
+            "6 metres? (20 feet)?",
+            "4.5 metres? (15 feet)?",
+            "Any length would do?"
+        ]
+    },
+    {
+        "stem": "When driving a motor vehicle, traffic or hand signals should be given by:",
+        "answer": "The driver only?",
+        "options": [
+            "Anybody in the vehicle?",
+            "The passenger in the rear?",
+            "The person on the left of the driver?",
+            "The driver only?"
+        ]
+    },
+    {
+        "stem": "When a constable on point duty gives a traffic control signal to enable any vehicle to proceed in an indicating direction who will have the right of way?",
+        "answer": "The motorist proceeding in the direction indicated.",
+        "options": [
+            "The pedestrian about to cross the current flow of traffic.",
+            "The motorist proceeding in the direction indicated.",
+            "The cyclist wanting to cross the flow of traffic.",
+            "Anybody can go."
+        ]
+    },
+    {
+        "stem": "What offence is committed when someone changes or allows to be used by another person any identification mark or motor vehicle licence?",
+        "answer": "Fraud.",
+        "options": [
+            "Larceny.",
+            "Fraud.",
+            "No offence.",
+            "Disorderly behaviour."
+        ]
+    },
+    {
+        "stem": "In what lane of traffic should you drive when you are going to make a right-hand turn on a wide two-way street?",
+        "answer": "The centre lane.",
+        "options": [
+            "The centre lane.",
+            "Close to the right side of the roadway.",
+            "Close to the left side of the roadway.",
+            "Does not matter if you give proper signal."
+        ]
+    },
+    {
+        "stem": "When travelling on a highway, the driver of a motor vehicle is not permitted to carry in a house or boat trailer:",
+        "answer": "Persons?",
+        "options": [
+            "Pets?",
+            "Persons?",
+            "Firearms?",
+            "Flammable materials?"
+        ]
+    },
+    {
+        "stem": "You are required to keep a safe distance behind the vehicle in front of you, at 50 kilometres (30 miles) an hour you should keep at least:",
+        "answer": "Three car lengths behind the other vehicle?",
+        "options": [
+            "Five car lengths behind the other vehicle?",
+            "One car length behind the other vehicle?",
+            "Three car lengths behind the other vehicle?",
+            "Seven car lengths behind the other vehicle?"
+        ]
+    },
+    {
+        "stem": "Who has the right of way at a round-about?",
+        "answer": "Those coming from the right.",
+        "options": [
+            "Vehicles going straight.",
+            "Those on the left.",
+            "Who reaches there first.",
+            "Those coming from the right."
+        ]
+    },
+    {
+        "stem": "It is in order for a driver to overtake:",
+        "answer": "Where the road ahead is clear for a sufficient distance to enable him to overtake and get back to the left before meeting traffic coming from the opposite direction?",
+        "options": [
+            "Round a corner?",
+            "Where the road ahead is clear for a sufficient distance to enable him to overtake and get back to the left before meeting traffic coming from the opposite direction?",
+            "On a hump-backed or narrow bridge?",
+            "At the brow of a hill?"
+        ]
+    },
+    {
+        "stem": "In one second a car moving at 30 miles (50 kilometres) per hour travels:",
+        "answer": "13.5 metres (44 feet)?",
+        "options": [
+            "9 metres (30 feet)?",
+            "10 metres (35 feet)?",
+            "17 metres (55 feet)?",
+            "13.5 metres (44 feet)?"
+        ]
+    },
+    {
+        "stem": "How close to a fire hydrant you may legally park?",
+        "answer": "3 metres (10 feet)?",
+        "options": [
+            "1.5 metres (5 feet)?",
+            "6 metres (20 feet)?",
+            "3 metres (10 feet)?",
+            "4.5 metres (15 feet)?"
+        ]
+    },
+    {
+        "stem": "What is the law as regards the colour of your vehicle?",
+        "answer": "It must not be in the colour of the protective services.",
+        "options": [
+            "Paint in a colour of your choice.",
+            "It must not be in the colour of the protective services.",
+            "It can be painted blue.",
+            "It can be red or blue."
+        ]
+    },
+    {
+        "stem": "In what position on the roadway must you be, before making a right turn from a one-way street?",
+        "answer": "Close to the right side of the roadway.",
+        "options": [
+            "Close to the left side of the roadway.",
+            "Close to the right side of the roadway.",
+            "Close to the centre line of the roadway.",
+            "Does not matter if you give proper signal."
+        ]
+    },
+    {
+        "stem": "When may you lend your driver's license?",
+        "answer": "It is not permitted.",
+        "options": [
+            "For identification purposes.",
+            "It is not permitted.",
+            "In emergencies.",
+            "To a person learning to drive."
+        ]
+    },
+    {
+        "stem": "Unless otherwise posted, the maximum speed limit on the highway outside of the City, Boroughs, Villages or built-up area is:",
+        "answer": "100 kilometres (60 miles) an hour?",
+        "options": [
+            "80 kilometres (50 miles) an hour?",
+            "60 kilometres (40 miles) an hour?",
+            "50 kilometres (30 miles) an hour?",
+            "100 kilometres (60 miles) an hour?"
+        ]
+    },
+    {
+        "stem": "The maximum length of a combination of vehicles must not exceed:",
+        "answer": "17 metres (55 feet)?",
+        "options": [
+            "10 metres (35 feet)?",
+            "18 metres (59 feet)?",
+            "17 metres (55 feet)?",
+            "15 metres (50 feet)?"
+        ]
+    },
+    {
+        "stem": "What projections are allowed on a Motor Vehicle or trailer?",
+        "answer": "1.5 metres [5 (five) feet in front and rear, and not more than 0.3 metres [one (1) foot] on either side beyond the plane of the wheels.",
+        "options": [
+            "0.91 metres (3 feet) in front.",
+            "0.3 metres [1 (one) foot] on each side.",
+            "Any length once you carry a red flag at the end of the load.",
+            "1.5 metres [5 (five) feet in front and rear, and not more than 0.3 metres [one (1) foot] on either side beyond the plane of the wheels."
+        ]
+    },
+    {
+        "stem": "Who is deemed the \"Owner\" of a Motor Vehicle?",
+        "answer": "The person in whose name the vehicle is registered.",
+        "options": [
+            "The person buying the vehicle.",
+            "The person for whom the vehicle was bought.",
+            "The person in whose name the vehicle is registered.",
+            "The person in possession."
+        ]
+    },
+    {
+        "stem": "Every Motor vehicle and trailer, operating when lights are required must show at the rear:",
+        "answer": "A red light and white identification plate light?",
+        "options": [
+            "A red light and stop light?",
+            "A red light and white identification plate light?",
+            "A red reflector and stop-light?",
+            "A stop light?"
+        ]
+    },
+    {
+        "stem": "In what condition should your vehicle be kept?",
+        "answer": "The vehicle and all the fittings thereof shall be in such a condition as not to cause, or to be likely to cause, danger to any person on the vehicle or on the public road.",
+        "options": [
+            "Clean.",
+            "Anyhow once you have good brakes and steering.",
+            "The vehicle and all the fittings thereof shall be in such a condition as not to cause, or to be likely to cause, danger to any person on the vehicle or on the public road.",
+            "One defective tyre does not matter."
+        ]
+    },
+    {
+        "stem": "When carrying excess projection on a Light Motor Vehicle, what is required by law?",
+        "answer": "Permission from the Police Officer in charge of the division; and a white flag in the day and a red flag at night, at the rear end of the load.",
+        "options": [
+            "A red flag at both ends in the day and red light at night.",
+            "Permission must be obtained from the Commissioner of Transport.",
+            "A white flag at both ends in the day.",
+            "Permission from the Police Officer in charge of the division; and a white flag in the day and a red flag at night, at the rear end of the load."
+        ]
+    },
+    {
+        "stem": "Who else, other than a Police Officer, Transport Officer or Traffic Warden in uniform can lawfully stop the driver of a Motor Vehicle on the roadway?",
+        "answer": "Any person in charge of a horse or any other animal.",
+        "options": [
+            "Any person in charge of a horse or any other animal.",
+            "A cadet in uniform.",
+            "A soldier.",
+            "A fireman."
+        ]
+    },
+    {
+        "stem": "The load on a light goods vehicle should be:",
+        "answer": "Properly secured in such a manner to prevent displacement of any portion when in motion?",
+        "options": [
+            "Placed anyhow once the driver thinks it is safe?",
+            "Properly secured in such a manner to prevent displacement of any portion when in motion?",
+            "Covered with a flapping tarpaulin?",
+            "Held by one or two of the loaders?"
+        ]
+    },
+    {
+        "stem": "What does \"Tare\" means in reference to a light goods vehicle?",
+        "answer": "The actual weight of the vehicle when unladen, but inclusive of the body, accumulators, loose tools, spare wheels and a full supply of water and fuel used for the purpose of propulsion.",
+        "options": [
+            "The actual weight of the vehicle when unladen.",
+            "The actual weight of the vehicle when unladen, but inclusive of the body, accumulators, loose tools, spare wheels and a full supply of water and fuel used for the purpose of propulsion.",
+            "The weight of the vehicle with load.",
+            "The weight of the vehicle with the driver and loaders."
+        ]
+    },
+    {
+        "stem": "How would you determine the weight your light goods vehicle should carry?",
+        "answer": "Subtract the \"Tare\" weight from the \"M.G.W.\"",
+        "options": [
+            "When you see the spring touching the chassis.",
+            "When the tyres go soft.",
+            "Subtract the \"Tare\" weight from the \"M.G.W.\"",
+            "Any weight if the vehicle can go with it."
+        ]
+    },
+    {
+        "stem": "If a Transport Officer has reason to believe that a motor vehicle does not conform to the provision of the Act or Regulations, and call up the vehicle for inspection at the Licensing Department, the owner may:",
+        "answer": "Comply as instructed?",
+        "options": [
+            "Refuse to comply having passed inspection one week before?",
+            "Come up for inspection after seeking an appointment?",
+            "Comply as instructed?",
+            "Come up when he wishes?"
+        ]
+    },
+    {
+        "stem": "What weight is considered a light motor vehicle?",
+        "answer": "M.G.W. of 2950 kilograms (6,500 lb.) and under.",
+        "options": [
+            "M.G.W. of 2950 kilograms (6,500 lb.) and under.",
+            "Any motor vehicle of which the M.G.W. exceeds 2950 kilograms (6,500 lb.).",
+            "1,016 kilograms (1 ton).",
+            "M.G.W. of under 2540 kilograms (5,600 lb)."
+        ]
+    },
+    {
+        "stem": "Are you allowed to park a vehicle on a pedestrian crossing?",
+        "answer": "No, never.",
+        "options": [
+            "Yes, if no pedestrians are using it.",
+            "Yes, if it is a passenger vehicle.",
+            "No, never.",
+            "Yes, as long as there are no Police around."
+        ]
+    },
+    {
+        "stem": "What is the penalty for exceeding the speed limit by 21km to 30km per hour?",
+        "answer": "$2,000.00 and 4 Demerit Points",
+        "options": [
+            "$2,500.00 and 3 Demerit Points",
+            "$2,000.00 and 4 Demerit Points",
+            "$3,000.00 and 6 Demerit Points",
+            "$1,500.00 and 2 Demerit Points"
+        ]
+    },
+    {
+        "stem": "As a road user, why do I ensure that I get enough rest before I drive?",
+        "answer": "Driving tired is just as dangerous as driving drunk.",
+        "options": [
+            "I like to sleep.",
+            "Driving tired is just as dangerous as driving drunk.",
+            "Both (a) and (b).",
+            "None of the above."
+        ]
+    },
+    {
+        "stem": "What is the legal limit for drinking and driving in Trinidad and Tobago?",
+        "answer": "35 micrograms per 100 millilitres of breath.",
+        "options": [
+            "35 micrograms.",
+            "35 millilitres per 100 micrograms of breath.",
+            "35 micrograms per 100 millilitres of breath.",
+            "36 millilitres per 100 millilitres of breath."
+        ]
+    },
+    {
+        "stem": "What is the key characteristic of a designated driver?",
+        "answer": "Abstains from drinking alcohol.",
+        "options": [
+            "Owns the vehicle.",
+            "Wears a designated driver's badge.",
+            "Abstains from drinking alcohol.",
+            "Drives a bus."
+        ]
+    },
+    {
+        "stem": "Which of the following actions, when performed while driving, is considered distracted driving?",
+        "answer": "All of the above.",
+        "options": [
+            "Texting or Talking on the phone.",
+            "Adjusting the radio.",
+            "Focusing on a family problem.",
+            "All of the above."
+        ]
+    },
+    {
+        "stem": "Children younger than 5 years of age must ............ when they travel in a vehicle:",
+        "answer": "Be secured in the back seat in the appropriate child seat or booster seat.",
+        "options": [
+            "Be secured in the front seat in the appropriate car seat or booster seat.",
+            "Be secured in the back seat in the appropriate child seat or booster seat.",
+            "Be secured in the back seat by a seatbelt.",
+            "Be held in an adult's lap in the back seat."
+        ]
+    },
+    {
+        "stem": "Why is using your cell phone considered to be a distraction when driving?",
+        "answer": "All of the above.",
+        "options": [
+            "You have to take your eyes off the road.",
+            "You have to take your hand off the wheel.",
+            "You have to take you mind away from driving.",
+            "All of the above."
+        ]
+    },
+    {
+        "stem": "What is the objective of the Demerit Points System?",
+        "answer": "To encourage drivers to improve driving behaviour and refrain from abusing the privilege to hold a driving permit.",
+        "options": [
+            "To teach drivers a lesson.",
+            "To encourage drivers to improve driving behaviour and refrain from abusing the privilege to hold a driving permit.",
+            "To make them pay a fine and add Demerit Points to their driving record.",
+            "To make sure that they don't injure themselves."
+        ]
+    },
+    {
+        "stem": "How does the law define a new/novice driver?",
+        "answer": "A driver that has had a drivers permit for less than 12 months.",
+        "options": [
+            "A driver that has had a drivers permit for less than 3 months.",
+            "A driver that has had a drivers permit for less than 6 months.",
+            "A driver that has had a drivers permit for less than 12 months.",
+            "A driver that has had a drivers permit for less than 18 months."
+        ]
+    },
+    {
+        "stem": "Demerit Points are applied to your driving permit record upon any of the three:",
+        "answer": "Payment of a Fixed Penalty, Conviction before a Court, Failure to pay the Fixed Penalty within the prescribed time frame.",
+        "options": [
+            "Payment of a Fixed Penalty, Conviction before a Court, Failure to pay the Fixed Penalty within the prescribed time frame.",
+            "Failure to pay the Fixed Penalty within the prescribed time frame, Payment of $1,000, Conviction before a Court.",
+            "Payment of a Fixed Penalty, Conviction before a Court, Failure to submit a breath specimen.",
+            "Payment of $2,000, Payment of a Fixed Penalty, Conviction before a Court."
+        ]
+    },
+    {
+        "stem": "A driver who is taking a non-prescription drug should",
+        "answer": "Read the labels on the drug before driving.",
+        "options": [
+            "Read the labels on the drug before driving.",
+            "Drink alcohol instead.",
+            "Continue to drive.",
+            "Drive only during daylight hours."
+        ]
+    },
+    {
+        "stem": "When you want to overtake and pass another vehicle you should",
+        "answer": "Signal and pass when safe to do so.",
+        "options": [
+            "Wait for a signal from the other driver.",
+            "Change lanes quickly so the other driver will see you.",
+            "Signal and pass when safe to do so.",
+            "Stay close behind so you need less time to pass."
+        ]
+    },
+    {
+        "stem": "You just sold your vehicle. You must notify the Licensing Authority within _____ days.",
+        "answer": "7",
+        "options": [
+            "7",
+            "10",
+            "14",
+            "15"
+        ]
+    },
+    {
+        "stem": "You have been involved in a minor traffic collision with a parked vehicle and you can't find the owner. You must:",
+        "answer": "Both 'a' and 'b' the above.",
+        "options": [
+            "Leave a note on the vehicle.",
+            "Report the accident without delay to the nearest police station.",
+            "Both 'a' and 'b' the above.",
+            "Look to see if no one is looking and leave."
+        ]
+    },
+    {
+        "stem": "If you plan to pass another vehicle, you should:",
+        "answer": "Assume the other driver will maintain a constant speed.",
+        "options": [
+            "Not assume the other driver will make space for you to return to your lane.",
+            "Assume the other driver will let you pass if you use your turn signal.",
+            "Assume the other driver will maintain a constant speed.",
+            "Look in your review for 12 seconds then proceed."
+        ]
+    },
+    {
+        "stem": "You are approaching a two-lane roundabout. Which is the most appropriate lane when proceeding straight?",
+        "answer": "Left or Right Lane.",
+        "options": [
+            "Left Lane.",
+            "Right Lane.",
+            "Left or Right Lane.",
+            "Doesn't matter."
+        ]
+    },
+    {
+        "stem": "When turning right at a two-lane roundabout, which is the most appropriate lane when proceeding?",
+        "answer": "Right Lane.",
+        "options": [
+            "Left Lane.",
+            "Doesn't matter.",
+            "Middle Lane.",
+            "Right Lane."
+        ]
+    },
+    {
+        "stem": "When turning left at a two-lane roundabout, which is the most appropriate lane when proceeding?",
+        "answer": "Left",
+        "options": [
+            "Doesn't matter",
+            "Left",
+            "Middle",
+            "Right"
+        ]
+    },
+    {
+        "stem": "The minimum levels of Visible Light Transmittance (VLT) or \"darkest legal tint\" for each window are as follows:",
+        "answer": "Front windscreen - at least 70%, windscreen's anti-glare band at least 35% VLT, front windows (Driver and passenger) - at least 35% VLT, Rear windows (including side windows) - at least 20% VLT, Rear Windscreen - at least 20% VLT.",
+        "options": [
+            "Front windscreen - at least 50%, windscreen's anti-glare band at least 20% VLT, front windows (Driver and passenger) - at least 35% VLT, Rear windows (including side windows) - at least 20% VLT, Rear Windscreen - at least 20% VLT.",
+            "Front windscreen - at least 70%, windscreen's anti-glare band at least 35% VLT, front windows (Driver and passenger) - at least 35% VLT, Rear windows (including side windows) - at least 20% VLT, Rear Windscreen - at least 20% VLT.",
+            "Front windscreen - at least 70%, windscreen's anti-glare band at least 35% VLT, front windows (Driver and passenger) - at least 35% VLT, Rear windows (including side windows) - at least 35% VLT, Rear Windscreen - at least 20% VLT.",
+            "Front windscreen - at least 50%, windscreen's anti-glare band at least 15% VLT, front windows (Driver and passenger) - at least 15% VLT, Rear windows (including side windows) - at least 20% VLT, Rear Windscreen - at least 15% VLT."
+        ]
+    }
+]

@@ -1,0 +1,622 @@
+[
+    {
+        "stem": "When your Goods Vehicle is broken down on the roadway, what does the law require you to do?",
+        "answer": "Immediately remove it as near to the left of the road as possible and indicate its presence by lighting or otherwise.",
+        "options": [
+            "Try repairing it.",
+            "Leave it on the roadway and look for a mechanic.",
+            "Go home and think about it later.",
+            "Immediately remove it as near to the left of the road as possible and indicate its presence by lighting or otherwise."
+        ]
+    },
+    {
+        "stem": "A flashing red light at an intersection means:",
+        "answer": "Stop; proceed only when it is safe to do so?",
+        "options": [
+            "Stop; proceed only when it is safe to do so?",
+            "Slow down and yield right of way to vehicle approaching from your left or right?",
+            "Slow down and drive with increased caution?",
+            "Stop, proceed only when the light changes to green?"
+        ]
+    },
+    {
+        "stem": "To get your truck out of a skid, you should first:",
+        "answer": "Steer in the direction of the skid?",
+        "options": [
+            "Steer in the opposite direction of the skid?",
+            "Steer in the direction of the skid?",
+            "Apply brakes hard?",
+            "Steer straight ahead?"
+        ]
+    },
+    {
+        "stem": "Which of the following is not required by law?",
+        "answer": "Defective tyres.",
+        "options": [
+            "Muffler.",
+            "Rear-view mirror.",
+            "Mudguards of flaps.",
+            "Defective tyres."
+        ]
+    },
+    {
+        "stem": "When approaching an intersection where a Stop Sign faces you, what does the law require you to do?",
+        "answer": "Stop and proceed when it is safe to do so.",
+        "options": [
+            "Give right of way if necessary to the vehicle approaching from the left or right.",
+            "Stop and proceed when it is safe to do so.",
+            "Stop and then proceed.",
+            "Slow down and proceed when it is safe to do so."
+        ]
+    },
+    {
+        "stem": "What projections are allowed on a Motor Vehicle or trailer?",
+        "answer": "Not more than (1 1/2) one and a half metres (5 ft.) in front and behind, and not more than three hundred millimetres (1 ft.) on either side beyond the plane of the wheels.",
+        "options": [
+            "Three (3) feet in front.",
+            "One (1) foot on each side.",
+            "Any length once you carry a red flag at the end of the load.",
+            "Not more than (1 1/2) one and a half metres (5 ft.) in front and behind, and not more than three hundred millimetres (1 ft.) on either side beyond the plane of the wheels."
+        ]
+    },
+    {
+        "stem": "When approaching a railway crossing at which a flagman is warning of the approach of a train carrying cane, you must:",
+        "answer": "Stop not less than fifteen (15) feet (4.5) metres from the nearest rail?",
+        "options": [
+            "Increase speed and cross tracks as quickly as possible?",
+            "Slow down and proceed with caution?",
+            "Stop not less than fifteen (15) feet (4.5) metres from the nearest rail?",
+            "Stop not less than five (5) feet (1.5) metres from the nearest rail?"
+        ]
+    },
+    {
+        "stem": "Unless otherwise posted, the maximum speed limit allowed for a Goods Vehicle in the city, boroughs, villages and built areas is:",
+        "answer": "30 miles (50 kilometres) an hour?",
+        "options": [
+            "30 miles (50 kilometres) an hour?",
+            "25 miles (40 kilometres) an hour?",
+            "35 miles (60 kilometres) an hour?",
+            "20 miles (30 kilometres) an hour?"
+        ]
+    },
+    {
+        "stem": "In one second, a truck moving at 30 miles (50 kilometres) per hour travels:",
+        "answer": "44 feet (13.5 metres)?",
+        "options": [
+            "30 feet (9 metres)?",
+            "44 feet (13.5 metres)?",
+            "55 feet (17 metres)?",
+            "35 feet (10 metres)?"
+        ]
+    },
+    {
+        "stem": "When approaching a red traffic signal light and a Police in uniform motions you to go through, you must:",
+        "answer": "Go through at once?",
+        "options": [
+            "Wait for the light to turn green?",
+            "Call the Policeman's attention to the red light?",
+            "Go through at once?",
+            "Stop to make sure the Policeman wants you to go through?"
+        ]
+    },
+    {
+        "stem": "When the driver of another vehicle is about to overtake and pass your vehicle, you must:",
+        "answer": "Move to the left and allow such vehicle to pass and shall not speed abreast of the overtaking vehicle?",
+        "options": [
+            "Move to the left and allow such vehicle to pass and shall not speed abreast of the overtaking vehicle?",
+            "Signal the other driver not to pass?",
+            "Move to the right to prevent passing?",
+            "Speed up so that passing is not necessary?"
+        ]
+    },
+    {
+        "stem": "Except when passing, how many feet (metres) must be maintained between Goods Vehicle with the \"M.G.W.\" over 6,500 lb. travelling in the same direction on the highway outside the city, boroughs or villages?",
+        "answer": "200 feet (60 metres)",
+        "options": [
+            "100 feet (30 metres)",
+            "200 feet (60 metres)",
+            "300 feet (90 metres)",
+            "500 feet (150 metres)"
+        ]
+    },
+    {
+        "stem": "If the signal light changes from green to amber as you approach an intersection, what must you do?",
+        "answer": "Stop. If stop cannot be made safely proceed with caution.",
+        "options": [
+            "Sound horn to warn pedestrians and other drivers.",
+            "Stop. If stop cannot be made safely proceed with caution.",
+            "Continue through intersection without slowing or stopping.",
+            "Speed up to clear the intersection as quickly as possible."
+        ]
+    },
+    {
+        "stem": "Unless otherwise posted, the maximum speed limit on the highway outside of the city, boroughs, villages and built-up areas for Goods Vehicle over 6,500 lb. is:",
+        "answer": "40 miles (60 kilometres) an hour?",
+        "options": [
+            "30 miles (50 kilometres) an hour?",
+            "40 miles (60 kilometres) an hour?",
+            "50 miles (80 kilometres) an hour?",
+            "60 miles (100 kilometres) an hour?"
+        ]
+    },
+    {
+        "stem": "The maximum length of a combination of vehicles must not exceed:",
+        "answer": "55 feet (17 metres)?",
+        "options": [
+            "35 feet (10 metres)?",
+            "59 feet (18 metres)?",
+            "55 feet (17 metres)?",
+            "50 feet (15 metres)?"
+        ]
+    },
+    {
+        "stem": "Which of the following is the first step in the pre-trip inspection of Air Brakes?",
+        "answer": "Start Engine.",
+        "options": [
+            "Fan brakes.",
+            "Apply brakes and hold firmly.",
+            "Drain Air Tanks.",
+            "Start Engine."
+        ]
+    },
+    {
+        "stem": "While rounding a left curve on a highway with a truck and trailer, the driver should:",
+        "answer": "Keep the front of the vehicle close to the centre line on the road?",
+        "options": [
+            "Keep the front of the vehicle close to the centre line on the road?",
+            "Keep the front of the vehicle to the left edge of the highway?",
+            "Keep the front of the vehicle in the centre of the lane?",
+            "Flash the brake lights?"
+        ]
+    },
+    {
+        "stem": "The inspection of a Motor Vehicle by a Motor Vehicle Inspector of the Licensing Department can be performed:",
+        "answer": "At any time or place?",
+        "options": [
+            "Only at an authorised place?",
+            "At any time or place?",
+            "Only with the owner's permission?",
+            "During daylight hours only?"
+        ]
+    },
+    {
+        "stem": "What does \"Maximum Gross Weight\" mean in reference to a Goods Vehicle?",
+        "answer": "The tare together with the load including the weight of the driver and loaders.",
+        "options": [
+            "The weight of the vehicle.",
+            "The weight of the load with the driver and loaders.",
+            "The tare weight with the load.",
+            "The tare together with the load including the weight of the driver and loaders."
+        ]
+    },
+    {
+        "stem": "Who is deemed the \"Owner\" of a Motor Vehicle?",
+        "answer": "The person in whose name the vehicle is registered.",
+        "options": [
+            "The person buying the vehicle.",
+            "The person for whom the vehicle was bought.",
+            "The person in whose name the vehicle is registered.",
+            "The person in possession."
+        ]
+    },
+    {
+        "stem": "Every Motor Vehicle and trailer, operating when lights are required, must show at the rear:",
+        "answer": "A red light and white identification plate light?",
+        "options": [
+            "A red light and stop light?",
+            "A red light and white identification plate light?",
+            "A red reflector and stop light?",
+            "A stop light?"
+        ]
+    },
+    {
+        "stem": "When backing to couple a semi-trailer, the fifth wheel opening must be in direct line with:",
+        "answer": "The trailer kingpin?",
+        "options": [
+            "The master link?",
+            "The trailer apron plate?",
+            "The trailer kingpin?",
+            "The fifth wheel coupler?"
+        ]
+    },
+    {
+        "stem": "When uncoupling a semi-trailer unit, the next step after having lowered the landing wheels is to:",
+        "answer": "Unlock the fifth wheel coupler?",
+        "options": [
+            "Unlock the fifth wheel coupler?",
+            "Disconnect the air lines?",
+            "Apply the tractor protection valve?",
+            "Lower the fifth wheel?"
+        ]
+    },
+    {
+        "stem": "What does \"Tare\" mean in reference to a Goods Vehicle?",
+        "answer": "The actual weight of the vehicle when unladen, but inclusive of the body, accumulators, loose tools, spare wheels and a full supply of water and fuel used for the purpose of propulsion.",
+        "options": [
+            "The actual weight of the vehicle when unladen.",
+            "The actual weight of the vehicle when unladen, but inclusive of the body, accumulators, loose tools, spare wheels and a full supply of water and fuel used for the purpose of propulsion.",
+            "The weight of the vehicle with load.",
+            "The weight of the vehicle with the driver and loaders."
+        ]
+    },
+    {
+        "stem": "How would you determine the weight your Goods Vehicle should carry?",
+        "answer": "Subtract the \"Tare\" weight from the \"M.G.W.\"",
+        "options": [
+            "When you see the spring touching the chassis.",
+            "When the tyres go soft.",
+            "Subtract the \"Tare\" weight from the \"M.G.W.\"",
+            "Any weight if the vehicle can go with it."
+        ]
+    },
+    {
+        "stem": "When descending a steep hill, a good safe driving practice is to:",
+        "answer": "Gear down and use motor to assist in braking?",
+        "options": [
+            "Disengage the clutch and coast?",
+            "Gear down and use motor to assist in braking?",
+            "Place the gear shift in neutral?",
+            "Turn off the ignition?"
+        ]
+    },
+    {
+        "stem": "At nights when you meet another vehicle with blinding bright lights, the safest thing to do is:",
+        "answer": "Look slightly to the left hand side of the roadway?",
+        "options": [
+            "Open and shut your eyes rapidly?",
+            "Look slightly to the left hand side of the roadway?",
+            "Turn your lights on high beam?",
+            "Look at the head lights of the approaching vehicle?"
+        ]
+    },
+    {
+        "stem": "If a Licensing Officer has reason to believe that a motor vehicle does not conform to the provision of the Ordinance or Regulations, and call up the vehicle for inspection at the Licensing Department, the owner may:",
+        "answer": "Comply as instructed?",
+        "options": [
+            "Refuse to comply having passed inspection one week before?",
+            "Come up for inspection after seeking an appointment?",
+            "Comply as instructed?",
+            "Come up when he wishes?"
+        ]
+    },
+    {
+        "stem": "If a constable or transport officer requests the driver of a Goods Vehicle which he suspects to be over-loaded to be taken to the nearest weighbridge for weighing and he refuses, the constable or transport officer can legally:",
+        "answer": "Arrest the driver without warrant and detain the vehicle at the expense and risk of the owner?",
+        "options": [
+            "Do nothing about it?",
+            "Seek a warrant for the arrest of the driver?",
+            "Arrest the driver without warrant and detain the vehicle at the expense and risk of the owner?",
+            "Allow the driver to go, then report to a senior officer?"
+        ]
+    },
+    {
+        "stem": "What is the maximum length of a Goods Vehicle?",
+        "answer": "28 feet (8 metres).",
+        "options": [
+            "28 feet (8 metres).",
+            "20 feet (6 metres).",
+            "30 feet (9 metres).",
+            "15 feet (4.5 metres)."
+        ]
+    },
+    {
+        "stem": "What is the maximum width of a Goods Vehicle in Trinidad and Tobago?",
+        "answer": "8 feet in Trinidad, and 7 1/2 feet in Tobago. (2.44 metres and 2.29 metres respectively).",
+        "options": [
+            "8 feet (2.44 metres).",
+            "8 feet in Trinidad, and 7 1/2 feet in Tobago. (2.44 metres and 2.29 metres respectively).",
+            "7 feet in both Islands (2.13 metres).",
+            "9 feet on wide roads in Trinidad, (2.74 metres)."
+        ]
+    },
+    {
+        "stem": "What is the maximum length of a motor vehicle with semi-trailer attached?",
+        "answer": "35 feet (10 metres).",
+        "options": [
+            "30 feet (9 metres).",
+            "50 feet (15 metres).",
+            "40 feet (12 metres).",
+            "35 feet (10 metres)."
+        ]
+    },
+    {
+        "stem": "What is the maximum length of a Goods Vehicle with a trailer attached?",
+        "answer": "45 feet (13.6 metres).",
+        "options": [
+            "45 feet (13.6 metres).",
+            "35 feet (10 metres).",
+            "30 feet (9 metres).",
+            "35 feet (17 metres)."
+        ]
+    },
+    {
+        "stem": "What is the size of the \"M.G.W.\" and \"Tare\" painted on the right or offside, in white figures and letters on black background, on every goods vehicle and trailer?",
+        "answer": "2 1/2 inches high.",
+        "options": [
+            "Any size if it conspicuous.",
+            "2 inches high.",
+            "2 1/2 inches high.",
+            "1 inch high."
+        ]
+    },
+    {
+        "stem": "The driver of a motor vehicle on the roadway is required by law to keep his driving permit and insurance for the vehicle:",
+        "answer": "On his person or in the vehicle?",
+        "options": [
+            "At home?",
+            "At office, and must be produced within 48 hours at the request of the police?",
+            "Any where that is convenient?",
+            "On his person or in the vehicle?"
+        ]
+    },
+    {
+        "stem": "In what condition should your goods vehicle be kept?",
+        "answer": "The goods vehicle and all the fittings thereof shall be in such a condition as not to cause, or to be likely to cause, danger to any person on the vehicle or on the public road.",
+        "options": [
+            "Clean.",
+            "Anyhow once you have good brakes and steering.",
+            "The goods vehicle and all the fittings thereof shall be in such a condition as not to cause, or to be likely to cause, danger to any person on the vehicle or on the public road.",
+            "One defective tyre does not matter."
+        ]
+    },
+    {
+        "stem": "The load on a goods vehicle should be:",
+        "answer": "Properly secured in such a manner to prevent displacement of any portion when in motion?",
+        "options": [
+            "Placed anyhow once the driver thinks it is safe?",
+            "Properly secured in such a manner to prevent displacement of any portion when in motion?",
+            "Covered with a flapping tarpaulin?",
+            "Held by one or two of the loaders?"
+        ]
+    },
+    {
+        "stem": "The total weight transmitted to the road surface by the wheels of any one axle of a motor vehicle or trailer shall not exceed:",
+        "answer": "8 tons?",
+        "options": [
+            "8 tons?",
+            "10 tons?",
+            "6 tons?",
+            "15 tons?"
+        ]
+    },
+    {
+        "stem": "If a traffic light changes while a pedestrian is still in the intersection, which of the following has the right of way:",
+        "answer": "The pedestrian?",
+        "options": [
+            "The pedestrian?",
+            "Motorist coming from the right?",
+            "Motorist coming from the left?",
+            "Motorist making turns?"
+        ]
+    },
+    {
+        "stem": "It is more dangerous to drive at the maximum speed limit at night than during the day-time because:",
+        "answer": "You cannot see as far ahead at night?",
+        "options": [
+            "Your reaction time is slower at night?",
+            "You cannot see as far ahead at night?",
+            "Some drivers unlawfully drive without parking light?",
+            "The Roadway is more apt to be slippery at night?"
+        ]
+    },
+    {
+        "stem": "When carrying excess projection on a goods vehicle, what is required by law?",
+        "answer": "Permission from the Police Officer in charge of the division, and carry a white flag in the day and a red light at night, at the rear end of the load.",
+        "options": [
+            "A red flag at both ends in the day and red light at night.",
+            "Permission must be obtained from the Commissioner of Transport.",
+            "A white flag both ends in the day.",
+            "Permission from the Police Officer in charge of the division, and carry a white flag in the day and a red light at night, at the rear end of the load."
+        ]
+    },
+    {
+        "stem": "Who else, other than a Police Officer and a Transport Office in uniform can lawfully stop the driver of a Motor Vehicle on the roadway?",
+        "answer": "Any person in charge of a horse or any other animal.",
+        "options": [
+            "Any person in charge of a horse or any other animal.",
+            "A cadet in uniform.",
+            "A soldier.",
+            "A fireman."
+        ]
+    },
+    {
+        "stem": "When towing a motor vehicle on the roadway the chain, drawbar or rope must not exceed?",
+        "answer": "15 feet (4.5 metres).",
+        "options": [
+            "10 feet (3 metres).",
+            "20 feet (6 metres).",
+            "15 feet (4.5 metres).",
+            "Any length would do. "
+        ]
+    },
+    {
+        "stem": "When on street designed for two-way traffic, you hear the siren of an emergency vehicle, what does the law require you to do?",
+        "answer": "Pull to the left side and stop.",
+        "options": [
+            "Pull to the left side and stop.",
+            "Slow down to 10 miles (15 kilometres) an hour.",
+            "Speed up to get out of the way.",
+            "Continue at the same speed."
+        ]
+    },
+    {
+        "stem": "All tyres of a Motor Vehicle must be free from any defects. If a constable requests the driver of a motor vehicle which appears to have defective tyres to proceed to the nearest Police Station and he refuses, the constable can legally:",
+        "answer": "Detain the vehicle and take it to the nearest Police Station or to a place for safe keeping at the expense and risk of the owner?",
+        "options": [
+            "Arrest the driver with a warrant?",
+            "Arrest the driver without a warrant?",
+            "Take the driver's name and address and let him go?",
+            "Detain the vehicle and take it to the nearest Police Station or to a place for safe keeping at the expense and risk of the owner?"
+        ]
+    },
+    {
+        "stem": "When the owner of a Motor Vehicle allows to be used or switches any identification mark (number plate) or license to another vehicle, he is guilty of?",
+        "answer": "Fraud.",
+        "options": [
+            "Larceny.",
+            "Fraud.",
+            "No offence if he owns both vehicles.",
+            "Embezzlement."
+        ]
+    },
+    {
+        "stem": "What colour revolving light should be carried on the hood of a goods vehicle, when towing on the roadway?",
+        "answer": "Amber.",
+        "options": [
+            "Red.",
+            "Blue.",
+            "Amber.",
+            "Green."
+        ]
+    },
+    {
+        "stem": "You are driving towards an intersection where the traffic light shows green. A Policeman motions you to stop you should?",
+        "answer": "Stop.",
+        "options": [
+            "Go through.",
+            "Call the policeman's attention to the green light.",
+            "Slow down and proceed with caution.",
+            "Stop."
+        ]
+    },
+    {
+        "stem": "When you have changed ownership of your vehicle, you should notify the Transport Division within?",
+        "answer": "7 days.",
+        "options": [
+            "14 days.",
+            "7 days.",
+            "21 days.",
+            "30 days."
+        ]
+    },
+    {
+        "stem": "How close to a fire hydrant you may legally park?",
+        "answer": "10 feet (3 metres).",
+        "options": [
+            "10 feet (3 metres).",
+            "5 feet (1.5 metres).",
+            "20 feet (6 metres).",
+            "15 feet (4.5 metres)."
+        ]
+    },
+    {
+        "stem": "On quitting your Motor Vehicle, what should you do?",
+        "answer": "Stop the engine, and apply the brakes.",
+        "options": [
+            "Apply hand brakes.",
+            "Lock the vehicle.",
+            "Keep the engine running.",
+            "Stop the engine, and apply the brakes."
+        ]
+    },
+    {
+        "stem": "What is the maximum length of a trailer?",
+        "answer": "22 feet (6.2 metres).",
+        "options": [
+            "28 feet (8 metres).",
+            "20 feet (6 metres).",
+            "22 feet (6.2 metres).",
+            "15 feet (4.5 metres)."
+        ]
+    },
+    {
+        "stem": "For what purpose a goods vehicle is permitted to go up High Street, San Fernando, from Quenca Street to Library Corner?",
+        "answer": "For delivering or receiving goods only.",
+        "options": [
+            "To deliver goods only.",
+            "To meet the owners or loaders.",
+            "To seek work.",
+            "For delivering or receiving goods only."
+        ]
+    },
+    {
+        "stem": "How many hours are you permitted to drive (work a goods vehicle) in a day (24 hours)?",
+        "answer": "Not more than 10 hours. Continuously for 5 1/2 hours with 1/2 hour rest.",
+        "options": [
+            "Not more than 10 hours. Continuously for 5 1/2 hours with 1/2 hour rest.",
+            "8 hours.",
+            "10 hours straight.",
+            "6 hours."
+        ]
+    },
+    {
+        "stem": "Before a goods vehicle over 15 tons, trailer over 10 tons, or motor vehicle or trailer all the wheels of which are not fitted with pneumatic tyres be used on the road or licensed, permission must be obtained from:",
+        "answer": "Transport Board?",
+        "options": [
+            "Commissioner of Transport?",
+            "Transport Board?",
+            "Commissioner of Police?",
+            "Director of Highways?"
+        ]
+    },
+    {
+        "stem": "When indivisible load of over 15 tons in case of a goods vehicle, or 8 tons in case of a trailer is to be carried on a roadway, permission must be granted by:",
+        "answer": "Director of Works and Hydraulics (Highways).",
+        "options": [
+            "Director of Works and Hydraulics (Highways).",
+            "Commissioner of Police.",
+            "Commissioner of Transport.",
+            "Transport Board."
+        ]
+    },
+    {
+        "stem": "Indivisible load means:",
+        "answer": "Load which cannot without due expense or risk or damage be divided into two or more loads for the purpose of conveyance?",
+        "options": [
+            "Load with excess projections?",
+            "Load over 8 tons?",
+            "Load over 15 tons?",
+            "Load which cannot without due expense or risk or damage be divided into two or more loads for the purpose of conveyance?"
+        ]
+    },
+    {
+        "stem": "If a person is disqualified for holding or obtaining a Driving Permit applies for or obtains a permit while he is so disqualified he shall be liable to:",
+        "answer": "A fine of two thousand dollars or 6 months imprisonment?",
+        "options": [
+            "A fine of two hundred and forty dollars?",
+            "A fine of two thousand dollars or 6 months imprisonment?",
+            "Six months imprisonment?",
+            "A fine only?"
+        ]
+    },
+    {
+        "stem": "When involved in an accident in which someone is injured, a report must be made:",
+        "answer": "Immediately, to a policemen in uniform or the nearest Police Station?",
+        "options": [
+            "Within a week?",
+            "Five (5) days to the police?",
+            "Immediately, to a policemen in uniform or the nearest Police Station?",
+            "Does not matter if it is trivial?"
+        ]
+    },
+    {
+        "stem": "What weight is considered a Heavy Goods Vehicle?",
+        "answer": "Any motor vehicle which M.G.W. exceeds 6,500 lb. but does not exceed 33,600 lb.",
+        "options": [
+            "M.G.W. of 6,500 lb. and over.",
+            "Any motor vehicle which M.G.W. exceeds 6,500 lb. but does not exceed 33,600 lb.",
+            "33,600 lb., and over.",
+            "Under 33,600 lb."
+        ]
+    },
+    {
+        "stem": "What is an extra heavy goods Vehicle?",
+        "answer": "One which M.G.W. exceeds 33,600 lb.",
+        "options": [
+            "Any heavy goods vehicle with trailers attached.",
+            "When the M.G.W. is between 6,500 lb. to 33,600 lb.",
+            "Any very large and heavy truck.",
+            "One which M.G.W. exceeds 33,600 lb."
+        ]
+    },
+    {
+        "stem": "When would a driver be qualified to obtain an Extra Heavy Goods Vehicle (Class 5) permit?",
+        "answer": "When he is the holder of a valid class 4 (Heavy Goods) Permit, for over one year.",
+        "options": [
+            "When he is the holder of a valid class 4 (Heavy Goods) Permit, for over one year.",
+            "At the age of 21 years and over.",
+            "One year after, holding a driving permit.",
+            "Once his driving permit is in force."
+        ]
+    }
+]

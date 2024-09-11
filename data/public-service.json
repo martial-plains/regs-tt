@@ -1,0 +1,622 @@
+[
+    {
+        "stem": "How would the driver of a taxi know the number of passengers he can legally carry?",
+        "answer": "On the outside of the right front door will be written the number of persons it is licenced to carry.",
+        "options": [
+            "Ask the owner.",
+            "On the outside of the right front door will be written the number of persons it is licenced to carry.",
+            "Check the insurance.",
+            "By the size of the vehicle."
+        ]
+    },
+    {
+        "stem": "Every driver of a Motor Vehicle on the roadway is required by law to keep his driving permit and insurance for the vehicle:",
+        "answer": "On his person or in the vehicle?",
+        "options": [
+            "At home?",
+            "At the office and must be able to produce same at the request of a police within 48 hours?",
+            "Anywhere that is convenient?",
+            "On his person or in the vehicle?"
+        ]
+    },
+    {
+        "stem": "How many hours can the driver of a Public Service Vehicle work in a day (24 hours)?",
+        "answer": "10 hours, not more than 5 1/2 hours continuously with (1/2) half-hour rest.",
+        "options": [
+            "8 hours.",
+            "6 hours.",
+            "10 hours, not more than 5 1/2 hours continuously with (1/2) half-hour rest.",
+            "As many hours as possible."
+        ]
+    },
+    {
+        "stem": "Unless otherwise posted, the maximum speed limit on the highway outside of cities, Borough, Villages or Built-up areas for a taxi is:",
+        "answer": "50 miles (80 Kilometres) an hour?",
+        "options": [
+            "50 miles (80 Kilometres) an hour?",
+            "40 miles (60 Kilometres) an hour?",
+            "30 miles (50 Kilometres) an hour?",
+            "60 miles (100 Kilometres) an hour?"
+        ]
+    },
+    {
+        "stem": "When the driver of a taxi is about to stop on any road to take up passengers or otherwise, he shall:",
+        "answer": "Draw up as close as possible to the left side of the road so as to allow a clear roadway for passing traffic?",
+        "options": [
+            "Stop anywhere as not to lose the passengers?",
+            "Stop about 3 to 4 ft. from the curb?",
+            "Draw up as close as possible to the left side of the road so as to allow a clear roadway for passing traffic?",
+            "Stop immediately once there is no traffic in sight?"
+        ]
+    },
+    {
+        "stem": "When may you lend your Taxi Driver's Badge and Licence?",
+        "answer": "It is not permitted.",
+        "options": [
+            "For identification purposes.",
+            "It is not permitted.",
+            "In emergencies.",
+            "To a person who is the holder of a Driving Permit."
+        ]
+    },
+    {
+        "stem": "If a Licensing Officer has reason to believe that a Motor Vehicle does not conform to the provisions of the Ordinance or Regulations, and call up the Vehicle for inspection at the Licensing Department, the owner may:",
+        "answer": "Comply as instructed?",
+        "options": [
+            "Refuse to comply having passed inspection one week before?",
+            "Come up for inspection after seeking an appointment?",
+            "Comply as instructed?",
+            "Come up when he wishes?"
+        ]
+    },
+    {
+        "stem": "In what position on the roadway must you be, before making a right turn from a one-way street?",
+        "answer": "Close to the right side of the roadway.",
+        "options": [
+            "Close to the left side of the roadway.",
+            "Close to the right side of the roadway.",
+            "Close to the centre line of the roadway.",
+            "Does not matter if you give proper signal."
+        ]
+    },
+    {
+        "stem": "When the driver of a Public Service Vehicle negligently or wilfully prevents, hinders or interrupts the free passage of any vehicle, person or animal, he is guilty of:",
+        "answer": "Obstruction?",
+        "options": [
+            "Negligent driving?",
+            "Careless driving?",
+            "Driving without due care?",
+            "Obstruction?"
+        ]
+    },
+    {
+        "stem": "When the driver of a Public Service Vehicle is stopped by a Constable in uniform with excess passengers, what must be done with the excess?",
+        "answer": "Eject all excess passengers.",
+        "options": [
+            "Forget the police and drive off.",
+            "Keep the passengers since he will be charged.",
+            "Eject all excess passengers.",
+            "Go on if the passengers have already paid."
+        ]
+    },
+    {
+        "stem": "When approaching an intersection and you notice the roadway beyond the intersection is blocked with traffic, you should:",
+        "answer": "Stop before entering the intersection and wait until traffic ahead moves on?",
+        "options": [
+            "Sound horn to warn cars ahead to move on?",
+            "Keep as close as possible to the car ahead?",
+            "Stop before entering the intersection and wait until traffic ahead moves on?",
+            "Proceed into the intersection until the traffic ahead clears?"
+        ]
+    },
+    {
+        "stem": "When travelling at less than the normal speed of other traffic, you should:",
+        "answer": "Keep well to the left side of the roadway?",
+        "options": [
+            "Signal other drivers to pass you?",
+            "Keep well to the right side of the roadway?",
+            "Keep well to the left side of the roadway?",
+            "Drive in the middle of the roadway?"
+        ]
+    },
+    {
+        "stem": "What is the requirement by law in respect of the colour of your motor vehicle?",
+        "answer": "It must not be in the colour of the protective services.",
+        "options": [
+            "Paint it in a colour of your choice.",
+            "It must not be in the colour of the protective services.",
+            "It can be painted red.",
+            "Blue would do."
+        ]
+    },
+    {
+        "stem": "What is the law in connection with tinted glass and windshield of motor vehicles?",
+        "answer": "It shall not be so tinted, treated or darkened as to obscure the view of the inside of the vehicle from the outside.",
+        "options": [
+            "It shall not be so tinted, treated or darkened as to obscure the view of the inside of the vehicle from the outside.",
+            "When tinted, you can see inside from three feet away.",
+            "Tint, once it can be removed at short notice.",
+            "Tint so as not to see who is inside the vehicle."
+        ]
+    },
+    {
+        "stem": "Generally the safest drivers are those who:",
+        "answer": "Adjust their driving to conditions?",
+        "options": [
+            "Always stay within the law?",
+            "Adjust their driving to conditions?",
+            "Have the best reaction time?",
+            "Have the best vision?"
+        ]
+    },
+    {
+        "stem": "When on streets designed for two-way traffic, you hear the siren of an emergency vehicle what does the law require you to do?",
+        "answer": "Pull on the left and stop.",
+        "options": [
+            "Pull on the left and stop.",
+            "Slow down at 10 miles (15 kilometres) an hour.",
+            "Continue at the same speed.",
+            "Speed up and get out of the way."
+        ]
+    },
+    {
+        "stem": "The best way to stop quickly on a wet roadway is to:",
+        "answer": "Pump the brakes until you come to a stop?",
+        "options": [
+            "Pump the brakes until you come to a stop?",
+            "Apply brakes the same way you always do?",
+            "Keep foot on brakes and let compression stop you?",
+            "Put the brakes on hard and try to prevent vehicle from skidding?"
+        ]
+    },
+    {
+        "stem": "What must the driver of a vehicle do before entering a highway from a Private road or Driveway?",
+        "answer": "Give right-of-way to all vehicles approaching on the highway.",
+        "options": [
+            "Enter or cross the highway as quickly as possible.",
+            "Sound horn and proceed with caution.",
+            "Give hand signal and then take right-of-way.",
+            "Give right-of-way to all vehicles approaching on the highway."
+        ]
+    },
+    {
+        "stem": "When would a driver be qualified to drive a Taxi?",
+        "answer": "At 21 years and has been driving regularly during the preceding 12 months.",
+        "options": [
+            "At 17 years and owns a vehicle.",
+            "At 20 years and has been driving regularly.",
+            "At 21 years and has been driving regularly during the preceding 12 months.",
+            "At 25 years and the holder of a valid driving permit."
+        ]
+    },
+    {
+        "stem": "What is deemed \"A Public Service Vehicle\"?",
+        "answer": "A Motor Vehicle used for carrying passengers for hire or reward.",
+        "options": [
+            "A Goods Vehicle.",
+            "A Wheel-Tractor or trailer.",
+            "A Motor Vehicle used for carrying passengers for hire or reward.",
+            "A Private Vehicle carrying passengers."
+        ]
+    },
+    {
+        "stem": "Which of the following is legal when driving a Public Service Vehicle?",
+        "answer": "Demanding fares in advance from any person employing him or intending to travel or ordering him to wait or to drive further.",
+        "options": [
+            "Use a horn or other instrument for the purpose of calling passengers.",
+            "Demanding fares in advance from any person employing him or intending to travel or ordering him to wait or to drive further.",
+            "Smoke after objection made by any passenger.",
+            "Make use to any passenger of any abusive language or insulting gestures."
+        ]
+    },
+    {
+        "stem": "It shall be lawful for a driver of a Public Service Vehicle to:",
+        "answer": "Refuse to allow any person or himself use a Public Service Vehicle for any indecent or immoral purpose?",
+        "options": [
+            "Call out to or to otherwise importune any person to travel by such Public Service Vehicle?",
+            "Loiter for the purpose of procuring passengers or otherwise?",
+            "While waiting to pick up passengers, race his engine or make any loud or unnecessary noise with his engine?",
+            "Refuse to allow any person or himself use a Public Service Vehicle for any indecent or immoral purpose?"
+        ]
+    },
+    {
+        "stem": "When any property is left in a Public Service Vehicle, the driver shall:",
+        "answer": "Within 24 hours deposit such property, if not sooner claimed, at the Police Station nearest to his residence?",
+        "options": [
+            "Within 24 hours deposit such property, if not sooner claimed, at the Police Station nearest to his residence?",
+            "Keep it for seven days; if not claimed, take it to the Police Station?",
+            "Send it to the Police Station?",
+            "Take it to a Newspaper Office?"
+        ]
+    },
+    {
+        "stem": "The driver of a taxi shall at the request of any passenger who wishes to alight:",
+        "answer": "Stop immediately on the left side in such a manner as not to cause an obstruction?",
+        "options": [
+            "Stop at the bus stop?",
+            "Stop immediately on the left side in such a manner as not to cause an obstruction?",
+            "Stop when he pleases?",
+            "Make one stop for all passengers?"
+        ]
+    },
+    {
+        "stem": "When driving on the roadway, the driver of a Public Service Vehicle must be:",
+        "answer": "Suitably attired?",
+        "options": [
+            "Dressed in a sleeve-less merino?",
+            "Without shirt? (bare-skin)?",
+            "In a short pants, shirt and bare feet?",
+            "Suitably attired?"
+        ]
+    },
+    {
+        "stem": "On approaching a Stop Sign, a driver must:",
+        "answer": "Stop, and when it is safe to do so, proceed?",
+        "options": [
+            "Slow down, sound horn and proceed?",
+            "Slow down, and if the way is clear proceed?",
+            "Stop, sound horn, then proceed?",
+            "Stop, and when it is safe to do so, proceed?"
+        ]
+    },
+    {
+        "stem": "Unless otherwise posted the maximum speed limit allowed in the Cities, Boroughs, Villages or Built-up areas for a taxi is:",
+        "answer": "30 miles (50 kilometres) an hour?",
+        "options": [
+            "20 miles (30 kilometres) an hour?",
+            "30 miles (50 kilometres) an hour?",
+            "35 miles (56 kilometres) an hour?",
+            "25 miles (40 kilometres) an hour?"
+        ]
+    },
+    {
+        "stem": "When the traffic signal light facing you is red and you intend to go straight through the intersection, what must you do?",
+        "answer": "Stop, proceed only when the signal turns green and when the roadway is clear.",
+        "options": [
+            "Stop, give pedestrians the right of way, then proceed with caution.",
+            "Stop, proceed when the way is clear.",
+            "Slow down, proceed when the way is clear.",
+            "Stop, proceed only when the signal turns green and when the roadway is clear."
+        ]
+    },
+    {
+        "stem": "On demand of your Taxi Drivers' Badge and Licence for inspection by a passenger in the taxi, what is required by Law?",
+        "answer": "Produce them for inspection.",
+        "options": [
+            "Produce them for inspection.",
+            "Do not produce them.",
+            "Abuse the passenger.",
+            "Put down the passenger."
+        ]
+    },
+    {
+        "stem": "A person whose driver's licence is under suspension may:",
+        "answer": "Not operate a Motor Vehicle under any condition?",
+        "options": [
+            "Operate a Motor Vehicle in a case of extreme emergency?",
+            "Operate a Motor Vehicle to and from work?",
+            "Operate a Motor Vehicle when accompanied by a Licenced Driver?",
+            "Not operate a Motor Vehicle under any condition?"
+        ]
+    },
+    {
+        "stem": "When a red signal light with a green arrow is shown at an intersection it means:",
+        "answer": "Proceed with caution in the direction of the arrow giving right-of-way to pedestrians and other traffic?",
+        "options": [
+            "Stop and wait for green light before making turn in the direction of the arrow?",
+            "Proceed with caution in the direction of the arrow giving right-of-way to pedestrians and other traffic?",
+            "Stop and then proceed?",
+            "The green arrow is a signal for pedestrians only?"
+        ]
+    },
+    {
+        "stem": "If you are convicted for drugs or drinking and driving you are liable to a fine of two hundred and forty dollars or 6 months imprisonment or both and you will lose your Driver's Licence on the first offence for:",
+        "answer": "12 months?",
+        "options": [
+            "3 months?",
+            "1 month?",
+            "12 months?",
+            "6 months?"
+        ]
+    },
+    {
+        "stem": "How soon after a change of ownership both the registered owner and the new owner must notify the Licensing Authority?",
+        "answer": "Within 7 days.",
+        "options": [
+            "Within 14 days.",
+            "Within 1 month.",
+            "Within 7 days.",
+            "Any time prior to the renewal of Licence."
+        ]
+    },
+    {
+        "stem": "When involved in an accident in which some one is injured a report must be made:",
+        "answer": "To a Police in uniform or the nearest Police Station immediately?",
+        "options": [
+            "To a Police in uniform or the nearest Police Station immediately?",
+            "Within 48 hours?",
+            "To your insurance company only, within 5 days?",
+            "To the Ministry of Transport?"
+        ]
+    },
+    {
+        "stem": "When the driver of a Motor Vehicle refused to give his name and address to a Constable in whose view an offence has been committed, the Constable:",
+        "answer": "Can arrest without a warrant?",
+        "options": [
+            "Must seek the advice of his Senior Officer before arresting?",
+            "Must have a warrant to arrest?",
+            "Cannot arrest?",
+            "Can arrest without a warrant?"
+        ]
+    },
+    {
+        "stem": "If a person is disqualified for holding or obtaining a Driving Permit, applies for or obtains a permit while he is so disqualified he shall be liable to:",
+        "answer": "A fine of two thousand dollars or 6 months imprisonment?",
+        "options": [
+            "A fine of two hundred and forty dollars?",
+            "A fine of two thousand dollars or 6 months imprisonment?",
+            "6 months imprisonment?",
+            "He cannot be both fined and be imprisoned for the same offence?"
+        ]
+    },
+    {
+        "stem": "To what penalty is a driver liable who is convicted of driving while disqualified?",
+        "answer": "One thousand dollars or one year imprisonment.",
+        "options": [
+            "Two hundred and forty dollars.",
+            "Five hundred dollars.",
+            "One thousand dollars or one year imprisonment.",
+            "Four hundred and eighty dollars or six months imprisonment or both."
+        ]
+    },
+    {
+        "stem": "What documents may a Police Officer require a taxi driver on the roadway to produce?",
+        "answer": "All or any of the above.",
+        "options": [
+            "A driver's permit.",
+            "Insurance for the vehicle.",
+            "Taxi driver's badge and licence.",
+            "All or any of the above."
+        ]
+    },
+    {
+        "stem": "Which of the following penalties can the court impose on a person convicted of driving above the speed limit of 30 or 50 miles per hour?",
+        "answer": "Shall be liable to a fine of five hundred dollars, and to be disqualified from holding or obtaining a driving permit as the court thinks fit.",
+        "options": [
+            "Suspension of Licence for six months.",
+            "Shall be liable to a fine of five hundred dollars, and to be disqualified from holding or obtaining a driving permit as the court thinks fit.",
+            "Disqualification for 30 days.",
+            "Impoundment of Motor Vehicle for 6 months."
+        ]
+    },
+    {
+        "stem": "The Commissioner of Transport may suspend a driving licence after a driver chalks up a minimum of:",
+        "answer": "10 points within a year?",
+        "options": [
+            "10 points within a year?",
+            "30 points within a year?",
+            "15 points within a year?",
+            "20 points within a year?"
+        ]
+    },
+    {
+        "stem": "It is unlawful to refuse to hire your taxi:",
+        "answer": "When the taxi is standing on a public stand?",
+        "options": [
+            "When the out-and-return journey is more than 20 miles?",
+            "When the number wanting to travel exceeds the number specified in the licence?",
+            "When the taxi is standing on a public stand?",
+            "If the passenger has excess luggage?"
+        ]
+    },
+    {
+        "stem": "Where must a tariff for a taxi be kept?",
+        "answer": "Inside on the back of the front seat of the taxi?",
+        "options": [
+            "Anywhere in the taxi?",
+            "On the left front door?",
+            "On the right front door?",
+            "Inside on the back of the front seat of the taxi?"
+        ]
+    },
+    {
+        "stem": "No taxi driver on the roadway shall place any printed, written or other matter by way of advertisement:",
+        "answer": "On any side window of the taxi?",
+        "options": [
+            "On the doors of the taxi?",
+            "On any side window of the taxi?",
+            "On the trunk of the taxi?",
+            "On the bumpers of the taxi?"
+        ]
+    },
+    {
+        "stem": "When does a driving permit expire?",
+        "answer": "On the anniversary date, (the date on which the permit was first issued).",
+        "options": [
+            "On the anniversary date, (the date on which the permit was first issued).",
+            "On the 31st December of every year.",
+            "The date on which the permit was renewed.",
+            "When suspended."
+        ]
+    },
+    {
+        "stem": "How would you park in a taxi stand:",
+        "answer": "15 feet from the kerb, not less than 3 feet, nor more than 4 feet apart between each other, and if alongside, not less than one foot apart and not less than three (3) feet between the lines.",
+        "options": [
+            "15 feet from the kerb, not less than 3 feet, nor more than 4 feet apart between each other, and if alongside, not less than one foot apart and not less than three (3) feet between the lines.",
+            "Anyhow.",
+            "Once you are between the lines.",
+            "Four (4) feet, so as to prevent the door of another car hitting your taxi when opened."
+        ]
+    },
+    {
+        "stem": "If the owner or taxi driver has been convicted in respect of the commission of any criminal offence with the use of the taxi the licence may be cancelled by the:",
+        "answer": "Commissioner of Transport?",
+        "options": [
+            "Court?",
+            "Police?",
+            "Transport Board?",
+            "Commissioner of Transport?"
+        ]
+    },
+    {
+        "stem": "Taxis standing for hire in stands shall leave such stands for the purpose of answering calls:",
+        "answer": "According to their priority of position in such stands and not otherwise?",
+        "options": [
+            "According to their priority of position in such stands and not otherwise?",
+            "At any time?",
+            "As they please?",
+            "When a passenger is seen?"
+        ]
+    },
+    {
+        "stem": "The taxi driver's licence shall not be valid:",
+        "answer": "During any period in which the holder is not the holder of a driving permit?",
+        "options": [
+            "During any period in which the holder is not the holder of a driving permit?",
+            "When it is lost?",
+            "If defaced or broken up?",
+            "If destroyed by fire?"
+        ]
+    },
+    {
+        "stem": "When the holder of a taxi licence ceased to be fit and proper person or obtained the licence by any false representation, such licence will be cancelled by the:",
+        "answer": "Commissioner of Transport?",
+        "options": [
+            "Commissioner of Police?",
+            "Commissioner of Transport?",
+            "Minister of Transport?",
+            "Court?"
+        ]
+    },
+    {
+        "stem": "When is it legal to use a rented car as taxi?",
+        "answer": "Never.",
+        "options": [
+            "During peak hours.",
+            "In case of emergency.",
+            "Never.",
+            "During a bus or taxi strike, so as to assist the public."
+        ]
+    },
+    {
+        "stem": "Which of the following is legal?",
+        "answer": "Having at lease one spare inflated tyre fixed to a spare wheel when on the roadway.",
+        "options": [
+            "Washing or repairing vehicle on the street of Port-of-Spain.",
+            "Touting.",
+            "Allowing persons other than the driver and bona fide passengers to sit in the taxi when plying for hire in a taxi stand.",
+            "Having at lease one spare inflated tyre fixed to a spare wheel when on the roadway."
+        ]
+    },
+    {
+        "stem": "One of those listed below is not required on a taxi by law:",
+        "answer": "Noisy muffler?",
+        "options": [
+            "Safety windshield?",
+            "Windshield wiper?",
+            "Rear view mirror?",
+            "Noisy muffler?"
+        ]
+    },
+    {
+        "stem": "Which of the following is required by law of a left-hand drive vehicle?",
+        "answer": "All as listed above.",
+        "options": [
+            "Affixed in a conspicuous position on the rear of the vehicle, the words \"Left-Hand Drive\" not less than two inches high.",
+            "When turning right, extend the left arm and rotate it in a clock-wise direction.",
+            "When turning left, extend the left hand and arm horizontally, palm turned to the front.",
+            "All as listed above."
+        ]
+    },
+    {
+        "stem": "How far from the identification plate (number plate) can unauthorised letters and figures be affixed?",
+        "answer": "Not within 18 inches.",
+        "options": [
+            "Not within 18 inches.",
+            "One foot.",
+            "6 inches.",
+            "Not less than 24 inches."
+        ]
+    },
+    {
+        "stem": "What is a Maxi Taxi?",
+        "answer": "A Public Service Motor Vehicle with seating accommodation for not less than nine nor more than twelve passengers.",
+        "options": [
+            "A large taxi.",
+            "A small bus.",
+            "A Public Service Motor Vehicle with seating accommodation for not less than nine nor more than twelve passengers.",
+            "A taxi with 8 inch band painted around."
+        ]
+    },
+    {
+        "stem": "It is unlawful for any vehicle to be painted or decorated:",
+        "answer": "In such a manner and in such combination of colours as are likely to cause the vehicle to be mistaken for a Maxi-Taxi?",
+        "options": [
+            "In a colour of your choice?",
+            "In such a manner and in such combination of colours as are likely to cause the vehicle to be mistaken for a Maxi-Taxi?",
+            "To look pretty?",
+            "In white?"
+        ]
+    },
+    {
+        "stem": "Which of the following hand and arm signals is correct for a left turn?",
+        "answer": "Arm straight out of window, with palm facing forward and circle it in an anti-clockwise direction.",
+        "options": [
+            "Arm straight out of window, with palm facing forward and circle it in an anti-clockwise direction.",
+            "Arm straight out and circle in a clockwise direction.",
+            "Arm out and up; pointing to the left.",
+            "Arm straight out of window."
+        ]
+    },
+    {
+        "stem": "When will it be legal for the holder of a class (3) driving permit to drive a taxi (H. Car)?",
+        "answer": "When he is the holder of a taxi driver's Licence and Badge.",
+        "options": [
+            "In cases of emergencies.",
+            "When he is the owner not taking passengers.",
+            "When driving out his family.",
+            "When he is the holder of a taxi driver's Licence and Badge."
+        ]
+    },
+    {
+        "stem": "Which of the following hand and arm signals is correct for slowing and stopping?",
+        "answer": "Arm straight out of window with palm downward, and wave it downwards and upwards, keeping it below the level of the shoulder.",
+        "options": [
+            "Arm straight out of window with palm downward, and wave it downwards and upwards, keeping it below the level of the shoulder.",
+            "Arm out with palm facing forward and up.",
+            "Circle motion.",
+            "Arm out of window with palm facing forward."
+        ]
+    },
+    {
+        "stem": "Which of the following hand and arm signals is correct for a right turn?",
+        "answer": "Arm straight out of window with palm facing forward.",
+        "options": [
+            "Arm straight out of window with palm facing forward.",
+            "Arm out and up.",
+            "Arm out and down.",
+            "Point a finger to the right."
+        ]
+    },
+    {
+        "stem": "What day of the week a maxi-taxi is required by law to ply for hire on regular route?",
+        "answer": "Any day of the week except Saturdays, Sundays and Public Holidays.",
+        "options": [
+            "Any day of the week.",
+            "From Monday to Friday.",
+            "Any day of the week except Saturdays, Sundays and Public Holidays.",
+            "No restriction."
+        ]
+    },
+    {
+        "stem": "How often a Public Service Vehicle must be inspected by the Licensing Authority for road worthiness?",
+        "answer": "Once annually.",
+        "options": [
+            "Every 6 months.",
+            "After two years.",
+            "Once annually.",
+            "Only when it is registered."
+        ]
+    }
+]
