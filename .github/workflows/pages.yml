@@ -32,10 +32,6 @@ jobs:
     - name: build css
       run: |
         deno run build_css
-        
-    - name: build dioxus
-      run: |
-        rustup override set nightly
 
     # deploy for github.io
     - name: Dioxus Deploy
