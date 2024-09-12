@@ -55,7 +55,9 @@ jobs:
         with:
           name: build-output
           path: dist
-      - run: zip -r dist.zip dist/
+      - run: |
+          zip -r dist.zip dist/
+          ls
       - name: Deploy Project 🚀
         uses: JamesIves/github-pages-deploy-action@v4.4.1
         with:
