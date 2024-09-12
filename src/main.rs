@@ -9,7 +9,7 @@ mod components;
 mod routes;
 mod types;
 
-const STYLE: &str = asset!("assets/styles/tailwind/tailwind.css");
+const STYLE: &str = asset!("./assets/styles/tailwind/tailwind.css");
 
 fn main() {
     // Init logger

@@ -15,7 +15,7 @@ pub fn Quiz(title: String) -> Element {
     let mut show_error = use_signal(|| false);
     let quiz = use_context::<Signal<crate::types::Quiz>>();
 
-    let hanlde_answer = move |selected: String| {
+    let handle_answer = move |selected: String| {
         if feedback().is_empty() {
             answer.set(selected);
         }
@@ -78,7 +78,7 @@ pub fn Quiz(title: String) -> Element {
                             key: index,
                             option: option.clone(),
                             index: index,
-                            on_submit: hanlde_answer,
+                            on_submit: handle_answer,
                             selected_answer: answer,
                             feedback: feedback,
                             true_answer: quiz().questions[number()].answer.clone()
