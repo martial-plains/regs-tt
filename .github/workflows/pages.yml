@@ -50,6 +50,8 @@ jobs:
     needs: [build]
     runs-on: ubuntu-latest
     steps:
+      - name: Checkout 🛎️
+        uses: actions/checkout@v4
       - name: Download the build output
         uses: actions/download-artifact@v4
         with:
@@ -62,5 +64,5 @@ jobs:
         uses: JamesIves/github-pages-deploy-action@v4.4.1
         with:
           branch: gh-pages
-          folder: ./dist
+          folder: dist
           clean: true
