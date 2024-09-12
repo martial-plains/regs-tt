@@ -31,7 +31,7 @@ jobs:
     # build css and rust
     - name: build css
       run: |
-        deno run build_css
+        deno run build_css && dx build --release --platform="web"
     - name: Upload the build output
       uses: actions/upload-artifact@v4
       with:
@@ -49,6 +49,9 @@ jobs:
         uses: actions/download-artifact@v4
         with:
           name: build-output
-      # deploy for github.io
-      - name: Dioxus Deploy
-        uses: martial-plains/dioxus-deploy-action@bbf28772f75a9d7b236bdfbef49ce506252d08b2
+      - name: Deploy Project 🚀
+        uses: JamesIves/github-pages-deploy-action@v4.4.1
+        with:
+          branch: gh-pages
+          folder: dist
+          clean: true
