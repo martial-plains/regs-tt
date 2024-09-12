@@ -628,6 +628,10 @@ video {
   min-height: 100vh;
 }
 
+.w-14 {
+  width: 3.5rem;
+}
+
 .w-full {
   width: 100%;
 }
@@ -730,6 +734,10 @@ video {
 
 .p-3 {
   padding: 0.75rem;
+}
+
+.p-4 {
+  padding: 1rem;
 }
 
 .p-8 {
@@ -926,6 +934,10 @@ video {
 
   .md\:w-14 {
     width: 3.5rem;
+  }
+
+  .md\:flex-row {
+    flex-direction: row;
   }
 
   .md\:gap-10 {
