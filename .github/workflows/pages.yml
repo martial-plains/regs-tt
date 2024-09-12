@@ -28,6 +28,11 @@ jobs:
         toolchain: nightly
         target: wasm32-unknown-unknown
         
+    - uses: Swatinem/rust-cache@v2
+    - name: Install Dioxus-CLI
+      shell: bash
+      run: cargo install dioxus-cli@0.6.0-alpha.2
+        
     # build css and rust
     - name: build css
       run: |
@@ -37,7 +42,7 @@ jobs:
       with:
         name: build-output
         path: |
-          ./assets
+          dist
         retention-days: 1
 
   deploy:
