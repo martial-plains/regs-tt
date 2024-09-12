@@ -29,7 +29,7 @@ pub fn Results(title: String) -> Element {
                 div { class: "bg-white dark:bg-navy drop-shadow-light dark:drop-shadow-dark mt-10 mb-3 p-8 h-fit w-full rounded-xl flex flex-col items-center justify-center gap-4 md:mt-16 md:mb-8 md:p-12 md:rounded-3xl md:gap-10 xl:mt-0",
 
                     div { class: "flex items-center gap-4 md:gap-6",
-                        Icon { quiz: quiz() }
+                        Icon { quiz }
 
                         p { class: "text-darkNavy dark:text-white text-heading-s-mobile font-medium md:text-heading-s",
 

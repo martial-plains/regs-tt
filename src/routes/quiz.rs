@@ -56,7 +56,7 @@ pub fn Quiz(title: String) -> Element {
                 progress {
                     class: "text-white dark:text-inherit w-full progress-bar xl:left-0",
 
-                    value: i32::try_from(number() + 1).unwrap(),
+                    value: i32::try_from(number + 1).unwrap(),
                     max: i32::try_from(quiz().questions.len()).unwrap()
                 }
 
