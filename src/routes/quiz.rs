@@ -215,7 +215,7 @@ fn Option(
     rsx! {
         li {
             class: format!(
-                "bg-white dark:bg-navy drop-shadow-light dark:drop-shadow-dark {} h-16 p-3 flex items-center rounded-xl cursor-pointer gap-4 relative group md:h-20 md:p-3 md:gap-8 md:rounded-3xl xl:h-[92px] xl:min-w-[520px]",
+                "bg-white dark:bg-navy drop-shadow-light dark:drop-shadow-dark {} h-16 p-3 flex items-center rounded-xl cursor-pointer gap-4 relative group md:h-20 md:p-3 md:gap-8 md:rounded-3xl xl:h-[92px] xl:min-w-[520px] h-fit",
                 get_border_color(),
             ),
             onclick: {
