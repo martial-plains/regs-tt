@@ -1,9 +1,11 @@
 use dioxus::prelude::*;
+use rand::{seq::SliceRandom, thread_rng};
 
 use crate::{components::quiz_topic::QuizTopic, types::Quiz};
 
 #[component]
 pub fn StartMenu() -> Element {
+    let mut rng = thread_rng();
     let quizzes: Vec<Quiz> = vec![
         Quiz {
             title: "Light Motor Vehicle",
@@ -23,7 +25,13 @@ pub fn StartMenu() -> Element {
             questions: serde_json::from_str(include_str!(".././../data/public-service.json"))
                 .unwrap(),
         },
-    ];
+    ]
+    .into_iter()
+    .map(|mut quiz| {
+        quiz.questions.shuffle(&mut rng);
+        quiz
+    })
+    .collect::<Vec<Quiz>>();
 
     rsx! {
         section { class: "flex flex-col xl:flex-row justify-between",
