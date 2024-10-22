@@ -36,7 +36,7 @@ jobs:
     # build css and rust
     - name: build css
       run: |
-        deno run build_css && dx build --release --platform="web"
+        deno run build_css && dx build --release --platform="web" --target=wasm32-uknown-unknown
     - name: Upload the build output
       uses: actions/upload-artifact@v4
       with:
