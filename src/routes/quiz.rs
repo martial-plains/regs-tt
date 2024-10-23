@@ -97,6 +97,7 @@ pub fn Quiz(title: String) -> Element {
                     } else {
                         "Next Question"
                     }
+                        .to_string()
                 }
             }
 

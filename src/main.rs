@@ -1,7 +1,7 @@
 #![warn(clippy::pedantic, clippy::nursery)]
 
 use dioxus::prelude::*;
-use dioxus_logger::tracing::{info, Level};
+use dioxus_logger::tracing::Level;
 use routes::Route;
 use types::Quiz;
 
@@ -14,7 +14,6 @@ const STYLE: &str = asset!("./assets/styles/tailwind/tailwind.css");
 fn main() {
     // Init logger
     dioxus_logger::init(Level::INFO).expect("failed to init logger");
-    info!("starting app");
 
     #[cfg(not(target_arch = "wasm32"))]
     {
@@ -40,7 +39,7 @@ fn app() -> Element {
     use_context_provider(|| Signal::new(0_i32));
 
     rsx! {
-        head::Link { rel: "stylesheet", href: STYLE }
+        document::Link { rel: "stylesheet", href: STYLE }
         Router::<Route> {}
     }
 }

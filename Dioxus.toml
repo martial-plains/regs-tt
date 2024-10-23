@@ -1,29 +1,13 @@
 [application]
-
-# App (Project) Name
 name = "regs-tt"
-
-# Dioxus App Default Platform
-# web, desktop, fullstack
-default_platform = "desktop"
-
-# `build` & `serve` dist path
+default_platform = "web"
 out_dir = "dist"
-
-# assets file folder
-asset_dir = "assets"
+asset_dir = "public"
 
 [web.app]
-
 base_path = "/regs-tt/"
-
-# HTML title tag content
-title = "regs-tt"
+title = "Regs TT"
 
 [web.watcher]
-
-# when watcher trigger, regenerate the `index.html`
 reload_html = true
-
-# which files or dirs will be watcher monitoring
 watch_path = ["src", "assets"]
