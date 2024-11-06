@@ -9,13 +9,13 @@ mod components;
 mod routes;
 mod types;
 
-const STYLE: &str = asset!("./assets/styles/tailwind/tailwind.css");
+const STYLE: Asset = asset!("./assets/styles/tailwind/tailwind.css");
 
 fn main() {
     // Init logger
     dioxus_logger::init(Level::INFO).expect("failed to init logger");
 
-    #[cfg(not(target_arch = "wasm32"))]
+    #[cfg(feature = "desktop")]
     {
         use dioxus::desktop::{LogicalSize, WindowBuilder};
 
@@ -28,7 +28,7 @@ fn main() {
         LaunchBuilder::desktop().with_cfg(cfg).launch(app);
     }
 
-    #[cfg(target_arch = "wasm32")]
+    #[cfg(feature = "web")]
     {
         launch(app);
     }

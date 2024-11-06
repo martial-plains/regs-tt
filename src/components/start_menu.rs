@@ -9,19 +9,19 @@ pub fn StartMenu() -> Element {
     let quizzes: Vec<Quiz> = vec![
         Quiz {
             title: "Light Motor Vehicle",
-            icon: asset!("assets/images/icon-car.svg"),
+            icon: Some(asset!("assets/images/icon-car.svg")),
             questions: serde_json::from_str(include_str!(".././../data/light-motor-vehicle.json"))
                 .unwrap(),
         },
         Quiz {
             title: "Goods Vehicle (Heavy & Extra Heavy)",
-            icon: asset!("assets/images/icon-truck.svg"),
+            icon: Some(asset!("assets/images/icon-truck.svg")),
             questions: serde_json::from_str(include_str!(".././../data/goods-vehicle.json"))
                 .unwrap(),
         },
         Quiz {
             title: "Public Service Vehicle (Taxi)",
-            icon: asset!("assets/images/icon-taxi.svg"),
+            icon: Some(asset!("assets/images/icon-taxi.svg")),
             questions: serde_json::from_str(include_str!(".././../data/public-service.json"))
                 .unwrap(),
         },
