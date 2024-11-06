@@ -9,7 +9,7 @@ edition = "2021"
 [dependencies]
 convert_case = "0.6.0"
 derive_more = { version = "1.0.0", features = ["is_variant"] }
-dioxus = { version = "=0.6.0-alpha.3", features = ["router"] }
+dioxus = { version = "=0.6.0-alpha.4", features = ["router"] }
 dioxus-logger = "0.5.1"
 getrandom = { version = "0.2.15", features = ["js"] }
 rand = "0.8.5"
