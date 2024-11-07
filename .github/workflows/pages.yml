@@ -42,7 +42,7 @@ jobs:
       with:
         name: build-output
         path: |
-          /target/dx/regs-tt/release/web/public
+          target/dx/regs-tt/release/web/public
         retention-days: 1
 
   deploy:
