@@ -9,7 +9,9 @@ pub fn Icon(
 ) -> Element {
     rsx! {
         div { class: "p-1 rounded-md md:rounded-xl md:w-14 md:h-14 md:p-2 xl:rounded-lg {class}",
-            img { src: quiz().icon, alt: quiz().icon }
+            if let Some(icon) = quiz().icon {
+                img { src: icon, alt: quiz().title }
+            }
         }
     }
 }
