@@ -189,15 +189,15 @@ function makeMutClosure(arg0, arg1, dtor, f) {
     return real;
 }
 function __wbg_adapter_50(arg0, arg1) {
-    wasm._ZN132__LT_dyn_u20_core__ops__function__FnMut_LT__LP__RP__GT__u2b_Output_u20__u3d__u20_R_u20_as_u20_wasm_bindgen__closure__WasmClosure_GT_8describe6invoke17hbbe7601585fab777E(arg0, arg1);
+    wasm._ZN132__LT_dyn_u20_core__ops__function__FnMut_LT__LP__RP__GT__u2b_Output_u20__u3d__u20_R_u20_as_u20_wasm_bindgen__closure__WasmClosure_GT_8describe6invoke17h13db7823e9074e00E(arg0, arg1);
 }
 
 function __wbg_adapter_53(arg0, arg1, arg2) {
-    wasm.closure353_externref_shim(arg0, arg1, arg2);
+    wasm.closure396_externref_shim(arg0, arg1, arg2);
 }
 
 function __wbg_adapter_56(arg0, arg1, arg2) {
-    wasm.closure359_externref_shim(arg0, arg1, arg2);
+    wasm.closure400_externref_shim(arg0, arg1, arg2);
 }
 
 function __wbg_adapter_59(arg0, arg1, arg2) {
@@ -428,10 +428,6 @@ function __wbg_get_imports() {
         const ret = false;
         return ret;
     };
-    imports.wbg.__wbindgen_error_new = function(arg0, arg1) {
-        const ret = new Error(getStringFromWasm0(arg0, arg1));
-        return ret;
-    };
     imports.wbg.__wbindgen_string_get = function(arg0, arg1) {
         const obj = arg1;
         const ret = typeof(obj) === 'string' ? obj : undefined;
@@ -440,20 +436,8 @@ function __wbg_get_imports() {
         getDataViewMemory0().setInt32(arg0 + 4 * 1, len1, true);
         getDataViewMemory0().setInt32(arg0 + 4 * 0, ptr1, true);
     };
-    imports.wbg.__wbg_getselectdata_bb77d9811560c281 = function(arg0, arg1) {
-        const ret = get_select_data(arg1);
-        const ptr1 = passArrayJsValueToWasm0(ret, wasm.__wbindgen_malloc);
-        const len1 = WASM_VECTOR_LEN;
-        getDataViewMemory0().setInt32(arg0 + 4 * 1, len1, true);
-        getDataViewMemory0().setInt32(arg0 + 4 * 0, ptr1, true);
-    };
-    imports.wbg.__wbindgen_boolean_get = function(arg0) {
-        const v = arg0;
-        const ret = typeof(v) === 'boolean' ? (v ? 1 : 0) : 2;
-        return ret;
-    };
-    imports.wbg.__wbindgen_is_bigint = function(arg0) {
-        const ret = typeof(arg0) === 'bigint';
+    imports.wbg.__wbindgen_number_new = function(arg0) {
+        const ret = arg0;
         return ret;
     };
     imports.wbg.__wbindgen_number_get = function(arg0, arg1) {
@@ -461,22 +445,6 @@ function __wbg_get_imports() {
         const ret = typeof(obj) === 'number' ? obj : undefined;
         getDataViewMemory0().setFloat64(arg0 + 8 * 1, isLikeNone(ret) ? 0 : ret, true);
         getDataViewMemory0().setInt32(arg0 + 4 * 0, !isLikeNone(ret), true);
-    };
-    imports.wbg.__wbindgen_in = function(arg0, arg1) {
-        const ret = arg0 in arg1;
-        return ret;
-    };
-    imports.wbg.__wbindgen_bigint_from_i64 = function(arg0) {
-        const ret = arg0;
-        return ret;
-    };
-    imports.wbg.__wbindgen_jsval_eq = function(arg0, arg1) {
-        const ret = arg0 === arg1;
-        return ret;
-    };
-    imports.wbg.__wbindgen_bigint_from_u64 = function(arg0) {
-        const ret = BigInt.asUintN(64, arg0);
-        return ret;
     };
     imports.wbg.__wbg_new_6a190d36daa9abe7 = function(arg0) {
         const ret = new WebDioxusChannel(JSOwner.__wrap(arg0));
@@ -497,8 +465,40 @@ function __wbg_get_imports() {
         const ret = arg0.rustRecv();
         return ret;
     };
-    imports.wbg.__wbindgen_number_new = function(arg0) {
+    imports.wbg.__wbindgen_error_new = function(arg0, arg1) {
+        const ret = new Error(getStringFromWasm0(arg0, arg1));
+        return ret;
+    };
+    imports.wbg.__wbg_getselectdata_bb77d9811560c281 = function(arg0, arg1) {
+        const ret = get_select_data(arg1);
+        const ptr1 = passArrayJsValueToWasm0(ret, wasm.__wbindgen_malloc);
+        const len1 = WASM_VECTOR_LEN;
+        getDataViewMemory0().setInt32(arg0 + 4 * 1, len1, true);
+        getDataViewMemory0().setInt32(arg0 + 4 * 0, ptr1, true);
+    };
+    imports.wbg.__wbindgen_boolean_get = function(arg0) {
+        const v = arg0;
+        const ret = typeof(v) === 'boolean' ? (v ? 1 : 0) : 2;
+        return ret;
+    };
+    imports.wbg.__wbindgen_is_bigint = function(arg0) {
+        const ret = typeof(arg0) === 'bigint';
+        return ret;
+    };
+    imports.wbg.__wbindgen_in = function(arg0, arg1) {
+        const ret = arg0 in arg1;
+        return ret;
+    };
+    imports.wbg.__wbindgen_bigint_from_i64 = function(arg0) {
         const ret = arg0;
+        return ret;
+    };
+    imports.wbg.__wbindgen_jsval_eq = function(arg0, arg1) {
+        const ret = arg0 === arg1;
+        return ret;
+    };
+    imports.wbg.__wbindgen_bigint_from_u64 = function(arg0) {
+        const ret = BigInt.asUintN(64, arg0);
         return ret;
     };
     imports.wbg.__wbindgen_jsval_loose_eq = function(arg0, arg1) {
@@ -1397,16 +1397,16 @@ function __wbg_get_imports() {
         const ret = wasm.memory;
         return ret;
     };
-    imports.wbg.__wbindgen_closure_wrapper915 = function(arg0, arg1, arg2) {
-        const ret = makeMutClosure(arg0, arg1, 354, __wbg_adapter_50);
+    imports.wbg.__wbindgen_closure_wrapper964 = function(arg0, arg1, arg2) {
+        const ret = makeMutClosure(arg0, arg1, 397, __wbg_adapter_50);
         return ret;
     };
-    imports.wbg.__wbindgen_closure_wrapper916 = function(arg0, arg1, arg2) {
-        const ret = makeMutClosure(arg0, arg1, 354, __wbg_adapter_53);
+    imports.wbg.__wbindgen_closure_wrapper965 = function(arg0, arg1, arg2) {
+        const ret = makeMutClosure(arg0, arg1, 397, __wbg_adapter_53);
         return ret;
     };
-    imports.wbg.__wbindgen_closure_wrapper919 = function(arg0, arg1, arg2) {
-        const ret = makeMutClosure(arg0, arg1, 354, __wbg_adapter_56);
+    imports.wbg.__wbindgen_closure_wrapper967 = function(arg0, arg1, arg2) {
+        const ret = makeMutClosure(arg0, arg1, 397, __wbg_adapter_56);
         return ret;
     };
     imports.wbg.__wbindgen_closure_wrapper1408 = function(arg0, arg1, arg2) {
