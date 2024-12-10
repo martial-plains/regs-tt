@@ -1,7 +1,7 @@
 use dioxus::prelude::Asset;
 use serde::{Deserialize, Serialize};
 
-#[derive(Debug, Default, Clone, PartialEq, PartialOrd)]
+#[derive(Debug, Default, Clone, PartialEq)]
 pub struct Quiz {
     pub title: &'static str,
     pub icon: Option<Asset>,
