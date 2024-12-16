@@ -809,7 +809,7 @@ dependencies = [
  "dioxus-history",
  "dioxus-hooks",
  "dioxus-html",
- "dioxus-logger 0.6.0",
+ "dioxus-logger",
  "dioxus-router",
  "dioxus-signals",
  "dioxus-web",
@@ -1096,18 +1096,6 @@ dependencies = [
  "dioxus-html",
  "dioxus-rsx",
  "dioxus-signals",
-]
-
-[[package]]
-name = "dioxus-logger"
-version = "0.5.1"
-source = "registry+https://github.com/rust-lang/crates.io-index"
-checksum = "81fe09dc9773dc1f1bb0d38529203d6555d08f67aadca5cf955ac3d1a9e69880"
-dependencies = [
- "console_error_panic_hook",
- "tracing",
- "tracing-subscriber",
- "tracing-wasm",
 ]
 
 [[package]]
@@ -3250,7 +3238,7 @@ dependencies = [
  "convert_case 0.6.0",
  "derive_more 1.0.0",
  "dioxus",
- "dioxus-logger 0.5.1",
+ "dioxus-logger",
  "getrandom 0.2.15",
  "rand 0.8.5",
  "serde",
@@ -3417,9 +3405,9 @@ dependencies = [
 
 [[package]]
 name = "serde"
-version = "1.0.215"
+version = "1.0.216"
 source = "registry+https://github.com/rust-lang/crates.io-index"
-checksum = "6513c1ad0b11a9376da888e3e0baa0077f1aed55c17f50e7b2397136129fb88f"
+checksum = "0b9781016e935a97e8beecf0c933758c97a5520d32930e460142b4cd80c6338e"
 dependencies = [
  "serde_derive",
 ]
@@ -3437,9 +3425,9 @@ dependencies = [
 
 [[package]]
 name = "serde_derive"
-version = "1.0.215"
+version = "1.0.216"
 source = "registry+https://github.com/rust-lang/crates.io-index"
-checksum = "ad1e866f866923f252f05c889987993144fb74e722403468a4ebd70c3cd756c0"
+checksum = "46f859dbbf73865c6627ed570e78961cd3ac92407a2d117204c49232485da55e"
 dependencies = [
  "proc-macro2",
  "quote",
