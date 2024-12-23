@@ -14,7 +14,7 @@ web = ["dioxus/web"]
 convert_case = "0.6.0"
 derive_more = { version = "1.0.0", features = ["is_variant"] }
 dioxus = { version = "0.6.0", features = ["router"] }
-dioxus-logger = "0.6.0"
+dioxus-logger = "0.6.1"
 getrandom = { version = "0.2.15", features = ["js"] }
 rand = "0.8.5"
 serde = { version = "1.0.216", features = ["derive"] }
