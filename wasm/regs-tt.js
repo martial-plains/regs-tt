@@ -225,7 +225,7 @@ function debugString(val) {
     return className;
 }
 function __wbg_adapter_50(arg0, arg1) {
-    wasm._ZN132__LT_dyn_u20_core__ops__function__FnMut_LT__LP__RP__GT__u2b_Output_u20__u3d__u20_R_u20_as_u20_wasm_bindgen__closure__WasmClosure_GT_8describe6invoke17h25584348685d6e9cE(arg0, arg1);
+    wasm._ZN132__LT_dyn_u20_core__ops__function__FnMut_LT__LP__RP__GT__u2b_Output_u20__u3d__u20_R_u20_as_u20_wasm_bindgen__closure__WasmClosure_GT_8describe6invoke17hac9aa5390bbeb399E(arg0, arg1);
 }
 
 function __wbg_adapter_53(arg0, arg1, arg2) {
@@ -233,11 +233,11 @@ function __wbg_adapter_53(arg0, arg1, arg2) {
 }
 
 function __wbg_adapter_56(arg0, arg1, arg2) {
-    wasm.closure318_externref_shim(arg0, arg1, arg2);
+    wasm.closure316_externref_shim(arg0, arg1, arg2);
 }
 
 function __wbg_adapter_59(arg0, arg1, arg2) {
-    wasm.closure607_externref_shim(arg0, arg1, arg2);
+    wasm.closure606_externref_shim(arg0, arg1, arg2);
 }
 
 const __wbindgen_enum_ScrollBehavior = ["auto", "instant", "smooth"];
@@ -1368,8 +1368,8 @@ function __wbg_get_imports() {
         const ret = false;
         return ret;
     };
-    imports.wbg.__wbindgen_closure_wrapper1261 = function(arg0, arg1, arg2) {
-        const ret = makeMutClosure(arg0, arg1, 608, __wbg_adapter_59);
+    imports.wbg.__wbindgen_closure_wrapper1260 = function(arg0, arg1, arg2) {
+        const ret = makeMutClosure(arg0, arg1, 607, __wbg_adapter_59);
         return ret;
     };
     imports.wbg.__wbindgen_closure_wrapper835 = function(arg0, arg1, arg2) {
@@ -1380,7 +1380,7 @@ function __wbg_get_imports() {
         const ret = makeMutClosure(arg0, arg1, 313, __wbg_adapter_53);
         return ret;
     };
-    imports.wbg.__wbindgen_closure_wrapper839 = function(arg0, arg1, arg2) {
+    imports.wbg.__wbindgen_closure_wrapper838 = function(arg0, arg1, arg2) {
         const ret = makeMutClosure(arg0, arg1, 313, __wbg_adapter_56);
         return ret;
     };
