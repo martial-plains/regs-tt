@@ -11,7 +11,7 @@ desktop = ["dioxus/desktop"]
 web = ["dioxus/web"]
 
 [dependencies]
-convert_case = "0.7.1"
+convert_case = "0.8.0"
 derive_more = { version = "2.0.1", features = ["is_variant"] }
 dioxus = { version = "0.6.3", features = ["router"] }
 dioxus-logger = "0.6.2"
