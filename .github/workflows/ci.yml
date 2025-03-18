@@ -34,10 +34,6 @@ jobs:
       - uses: dtolnay/rust-toolchain@nightly
         with:
           components: rustfmt
-      - uses: Swatinem/rust-cache@v2
-        with:
-          cache-all-crates: "true"
-          save-if: ${{ github.ref == 'refs/heads/main' }}
       - run: cargo fmt --all -- --check
 
   test:
@@ -47,6 +43,9 @@ jobs:
     runs-on: ${{ matrix.os }}
     steps:
       - uses: actions/checkout@v4
+      - name: Install Linux Dependencies
+        run: sudo apt-get update; sudo apt-get install libwebkit2gtk-4.1-dev build-essential curl wget file libxdo-dev libssl-dev libayatana-appindicator3-dev librsvg2-dev
+        if: runner.os == 'linux'
       - uses: dtolnay/rust-toolchain@master
         with:
           toolchain: ${{ env.RUST_TOOLCHAIN }}
