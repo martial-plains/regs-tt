@@ -1,0 +1,25 @@
+#quiz-icon-wrapper {
+    padding: 0.25rem;
+    border-radius: 0.375rem;
+    width: 3.5rem;
+    height: 3.5rem;
+}
+
+@media (min-width: 768px) {
+    #quiz-icon-wrapper {
+        border-radius: 0.75rem;
+        width: 3.5rem;
+        height: 3.5rem;
+        padding: 0.5rem;
+    }
+}
+
+@media (min-width: 1280px) {
+    #quiz-icon-wrapper {
+        border-radius: 0.5rem;
+    }
+}
+
+#quiz-icon-image {
+    /* No specific Tailwind classes provided for the image */
+}

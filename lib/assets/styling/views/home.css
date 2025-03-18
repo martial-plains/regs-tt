@@ -1,0 +1,11 @@
+#home-container {
+    min-height: 100vh;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+#main-content {
+    margin-top: 2rem;
+    margin-left: 1.5rem;
+    margin-right: 1.5rem;
+}

@@ -1,0 +1,14 @@
+[package]
+name = "regs_tt"
+version = "0.1.0"
+edition = "2021"
+
+[lib]
+crate-type = ["rlib"]
+
+[dependencies]
+convert_case = { workspace = true }
+dioxus = { workspace = true }
+rand = { workspace = true }
+serde = { workspace = true }
+serde_json = { workspace = true }

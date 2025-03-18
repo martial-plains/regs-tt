@@ -1,0 +1,16 @@
+[package]
+name = "mobile"
+version.workspace = true
+authors.workspace = true
+edition.workspace = true
+
+[dependencies]
+dioxus = { workspace = true, features = ["router"] }
+regs_tt = { workspace = true }
+convert_case = { workspace = true }
+rand = { workspace = true }
+serde_json = { workspace = true }
+
+[features]
+default = ["mobile"]
+mobile = ["dioxus/mobile"]

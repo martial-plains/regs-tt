@@ -1,14 +1,19 @@
 # Development
 
-1. Install deno: https://deno.com
-2. Run the following command in the root of the project to start the tailwind CSS compiler:
+Depending on your selected options, your new workspace project contains a workspace member for each platform.
+If you chose to develop with the router feature, each platform crate will have a `views` folder for your platform-specific views.
+You are provided with a `lib` crate for shared code.
 
+### Serving Your App
+
+Navigate to the platform crate of your choice:
 ```bash
-deno run build_css --watch
+cd web
 ```
 
-Run the following command in the root of the project to start the Dioxus dev server:
+and serve:
 
 ```bash
-dx serve --hot-reload --platform desktop
+dx serve
 ```
+
