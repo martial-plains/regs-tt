@@ -7,7 +7,7 @@ edition.workspace = true
 [dependencies]
 convert_case = { workspace = true }
 dioxus = { workspace = true, features = ["router"] }
-getrandom = { version = "0.3.2", features = ["wasm_js"] }
+getrandom = { version = "0.3.3", features = ["wasm_js"] }
 rand = { workspace = true }
 regs_tt = { workspace = true }
 serde_json = { workspace = true }
