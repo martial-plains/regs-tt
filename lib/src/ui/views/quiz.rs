@@ -209,7 +209,7 @@ fn QuizOption(
         }
     };
 
-    let option_id = format!("quiz-option-{}", index); // Dynamically generate the ID based on the index.
+    let option_id = format!("quiz-option-{index}"); // Dynamically generate the ID based on the index.
 
     rsx! {
         document::Link { rel: "stylesheet", href: QUIZ_OPTION_CSS }
