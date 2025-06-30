@@ -10,7 +10,7 @@ description = "An app for studying the driving regulations in Trinidad and Tobag
 
 [workspace.dependencies]
 convert_case = { version = "0.8.0" }
-dioxus = { version = "0.6.0" }
+dioxus = { version = "0.6.3" }
 getrandom = { version = "0.3.3" }
 rand = { version = "0.9.1" }
 regs_tt = { path = "lib" }
