@@ -15,7 +15,7 @@ getrandom = { version = "0.3.3" }
 rand = { version = "0.9.2" }
 regs_tt = { path = "lib" }
 serde = { version = "1.0.219" }
-serde_json = { version = "1.0.141" }
+serde_json = { version = "1.0.142" }
 glib = "0.20.12"
 
 
